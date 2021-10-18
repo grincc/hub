@@ -6,7 +6,7 @@
 output:
 
 ```
-python main.py 3000 usd "2021-10-18 10:00"
+python GrinCC-Funding-distribution-calc.py 3000 usd "2021-10-18 10:00"
  Date:		2021-10-18 10:00
  Request:	3,000.00 USD
  90%:		2,700.00 USD
