@@ -1,5 +1,5 @@
 # tools
-GRIN scripts and tools 
+GRIN scripts and tools. Find scripts [in this directory](https://github.com/grincc/tools/tree/main/scripts). Other tools are in the linked repositories below
 
 # Hub of links to other repositories with Grin tools and scripts
 * GrinVention, Pure Python implementation of Mimblewimble protocol for Grin cryptocurrency 
@@ -11,3 +11,17 @@ GRIN scripts and tools
 * GrinGots wizarding bank (last commits in 2019), Gringotts is a CLI app that you can use to send and receive grins instantly using one of the available backends for communication.
   + https://github.com/mcdallas/gringotts
   + https://github.com/mcdallas/gringotts-rust
+
+# Other link outs
+* Grin official website, find all information and links to node and wallet software you might be searching for
+  + https://grin.mw/
+* Grin main github page
+  + https://github.com/mimblewimble/grin
+* Grinnode.live, high-available GRIN-API & Sync-Service (very convenient if you are a developer)
+  + https://grinnode.live/
+* Grin documentation, learn how to use the node and wallet as well as the innter workings of Grin and Mimble Wimble
+  + https://docs.grin.mw/
+* Grin link to old mailing list
+  + https://lists.launchpad.net/mimblewimble/
+* Grin Papyrus, Collection of important documents and links related to the development of GRIN
+  + https://github.com/Grinnode-live/GRIN-papyrus
