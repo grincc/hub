@@ -2,6 +2,8 @@
 GRIN scripts and tools 
 
 # Hub of links to other repositories with Grin tools and scripts
+* GrinVention, Pure Python implementation of Mimblewimble protocol for Grin cryptocurrency 
+  + https://github.com/grinventions/
 * Grin Mail: Automatically send and receive transactions via email (last commit 05-07-2021)
   + https://github.com/aixinrock/grinmail/blob/main/README-en.md
 * Testnet exchange, consits of 2 pieces 1) the Grin Wallet APIs for Grin community wallet developers via a JSON-RPC interface 2) areference command-line wallet, which provides a baseline wallet for Grin and demonstrates how the wallet APIs should be called.
