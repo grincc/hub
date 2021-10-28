@@ -19,6 +19,8 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
   + https://github.com/mimblewimble/grin
 * Grinnode.live, high-available GRIN-API & Sync-Service (very convenient if you are a developer)
   + https://grinnode.live/
+* Slatepack market place, buy and sell with Grin, have fun.
+  + https://slatepacks.com/
 * Grin documentation, learn how to use the node and wallet as well as the innter workings of Grin and Mimble Wimble
   + https://docs.grin.mw/
 * Grin link to old mailing list
