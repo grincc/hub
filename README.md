@@ -38,3 +38,5 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
   + https://lists.launchpad.net/mimblewimble/
 * **Grin Papyrus:** Collection of important documents and links related to the development of GRIN. Find back everything, the early steps towards Grin in 2016, launch in 2019 and everything that happened after
   + https://github.com/Grinnode-live/GRIN-papyrus
+* **What is Grin?:** explenation on emission, transaction aggretation and mimble wimble with some nice visuals usefull for presentations, by Phyro.
+  + https://github.com/phyro/what-is-grin
