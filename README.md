@@ -59,4 +59,12 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
 https://www.blockchainbeach.com/going-deep-on-privacy-mimblewimble/
 https://smithandcrown.com/research/grin-mimblewimble/
 
-## Social Media
+## Community channels and social media
+* **KeyBase:* Grincoin on keybase is the best place for technical discussions and to join general meetings
+  + https://keybase.io/team/grincoin
+* **Grin Forum:** Discuss everything Grin, meme contests, Research, mining, market, you name it!
+  + https://forum.grin.mw/
+* **Grin++ Telegram group:** Any problems or questions with regard to Grin++ wallet, ask here.
+  + https://t.me/GrinPP
+* **Grin Ironbelly Telegram group:** Any problems or questions with regard to Ironbelly wallet, ask here. 
+  +https://t.me/ironbelly
