@@ -1,4 +1,4 @@
-# tools
+# HUB - Tools - Documentation - Channels - Articles
 GRIN scripts and tools. Find scripts [in this directory](https://github.com/grincc/tools/tree/main/scripts). Other tools are in the linked repositories below
 
 # Hub of links to other repositories with Grin tools and scripts
