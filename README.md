@@ -40,3 +40,12 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
   + https://github.com/Grinnode-live/GRIN-papyrus
 * **What is Grin?:** explenation on emission, transaction aggretation and mimble wimble with some nice visuals usefull for presentations, by Phyro.
   + https://github.com/phyro/what-is-grin
+* **Grin newsletter:** Sign up or click on 'Read first' to read old Grin newsletters
+  + https://grinnews.substack.com/
+
+## External artikles 
+* **Articles on Grin and Mimble Wimble:** Just a few of the many, feel free to add more.
+https://www.blockchainbeach.com/going-deep-on-privacy-mimblewimble/
+https://smithandcrown.com/research/grin-mimblewimble/
+
+## Social Media
