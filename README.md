@@ -64,7 +64,15 @@ https://smithandcrown.com/research/grin-mimblewimble/
   + https://keybase.io/team/grincoin
 * **Grin Forum:** Discuss everything Grin, meme contests, Research, mining, market, you name it!
   + https://forum.grin.mw/
+* **Grin Telegram community:** Buzzing with discussions memes, and anything else Grin related
+  +https://t.me/grinprivacy
 * **Grin++ Telegram group:** Any problems or questions with regard to Grin++ wallet, ask here.
   + https://t.me/GrinPP
 * **Grin Ironbelly Telegram group:** Any problems or questions with regard to Ironbelly wallet, ask here. 
-  +https://t.me/ironbelly
+  + https://t.me/ironbelly
+* **Grinventions Telegram channel:** Innovative inventions for the grin cryptocurrency. Also discusses building the MimbleWimble Python implementatoin and quantum computing basic in Python
+  + https://t.me/grinventions
+* **Grin Twitter:** Activities suspender bla bla. When they try to silence you ... you know you are on the right path!
+  + https://twitter.com/grinMW
+* **Grin Redit:** Not that active, for more busy channels, check Telegram, Keybase and the forum
+  + https://www.reddit.com/r/GRIN/
