@@ -74,7 +74,9 @@ https://smithandcrown.com/research/grin-mimblewimble/
   + https://t.me/ironbelly
 * **Grinventions Telegram channel:** Innovative inventions for the grin cryptocurrency. Also discusses building the MimbleWimble Python implementatoin and quantum computing basic in Python
   + https://t.me/grinventions
-* **Grin Twitter:** Activities suspender bla bla. When they try to silence you ... you know you are on the right path!
+* **Grin Twitter:** 'Activities suspended due to ....' When they try to silence you ,you know you are on the right path!
+* **MW Fediverere
+  + https://mw.social/timeline/local
   + https://twitter.com/grinMW
 * **Grin Redit:** Not that active, for more busy channels, check Telegram, Keybase and the forum
   + https://www.reddit.com/r/GRIN/
