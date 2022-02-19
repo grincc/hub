@@ -62,7 +62,7 @@ https://www.blockchainbeach.com/going-deep-on-privacy-mimblewimble/
 https://smithandcrown.com/research/grin-mimblewimble/
 
 ## Community channels and social media
-* **KeyBase:* Grincoin on keybase is the best place for technical discussions and to join general meetings
+* **KeyBase:** Grincoin on keybase is the best place for technical discussions and to join general meetings
   + https://keybase.io/team/grincoin
 * **Grin Forum:** Discuss everything Grin, meme contests, Research, mining, market, you name it!
   + https://forum.grin.mw/
@@ -78,5 +78,9 @@ https://smithandcrown.com/research/grin-mimblewimble/
   + https://twitter.com/grinMW
 * **MW Fediverere
   + https://mw.social/timeline/local
-* **Grin Redit:** Not that active, for more busy channels, check Telegram, Keybase and the forum
+* **Grin Reddit:** Not that active, for more busy channels, check Telegram, Keybase and the forum
   + https://www.reddit.com/r/GRIN/
+* **Grin Reddit (grincoin):** Another reddit channel which is gaining traction.
+  + https://www.reddit.com/r/grincoin/
+* **Grin Discord community:** Meet other grin followers on discord.
+  + https://discord.gg/5p4vCQY9km
