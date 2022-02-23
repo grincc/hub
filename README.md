@@ -46,7 +46,9 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
 * **Grin documentation:** Your journey down the rabit hole starts here! Learn about where Grin comes from, Mimble Wimble, Pederson commitments, Eliptic Curve cryptography as well as practical tutorails on how to install and use the grin node software and grin-wallet.
   + https://docs.grin.mw/
 * **Grinflation:** A great website that shows all the economics around Grins's Fair 1   ツ per second supply rate, its inflation, total supply, market cap and price now and in times to come
-  +  https://grinflation.com/
++  https://grinflation.com/
+* **A Different approach to Grin's inflation supply** A nice article showing a different view on Grin's supply, inflation and inherent fairness
+  + https://madenuzmani.medium.com/a-different-approach-to-grins-inflation-and-supply-355266fc96be
 * **Grin link to old mailing list**
   + https://lists.launchpad.net/mimblewimble/
 * **Grin Papyrus:** Collection of important documents and links related to the development of GRIN. Find back everything, the early steps towards Grin in 2016, launch in 2019 and everything that happened after
