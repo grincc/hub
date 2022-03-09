@@ -40,10 +40,10 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
   + https://grinnode.live/
 * **Slatepack market place:** Buy and sell with Grin, have fun.
   + https://slatepacks.com/
-* **Grin documentation:** Your journey down the rabit hole starts here! Learn about where Grin comes from, Mimble Wimble, Pederson commitments, Eliptic Curve cryptography as well as practical tutorails on how to install and use the grin node software and grin-wallet.
+* **Grin documentation:** Your journey down the rabit hole starts here! Learn about where Grin comes from, Mimblewimble, Pedersen commitments, Eliptic Curve cryptography as well as practical tutorials on how to install and use the grin node software and grin-wallet.
   + https://docs.grin.mw/
 * **Grinflation:** A great website that shows all the economics around Grins's Fair 1   ツ per second supply rate, its inflation, total supply, market cap and price now and in times to come
-+  https://grinflation.com/
+  +  https://grinflation.com/
 * **A Different approach to Grin's inflation supply** A nice article showing a different view on Grin's supply, inflation and inherent fairness
   + https://madenuzmani.medium.com/a-different-approach-to-grins-inflation-and-supply-355266fc96be
 * **Grin link to old mailing list**
@@ -57,13 +57,13 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
   + https://medium.com/@CryptoProfG/grin-money-explained-3-supply-and-monetary-properties-of-grin-aa753fdb91b8 
   + https://medium.com/@CryptoProfG/grin-money-explained-4-exploring-grins-monetary-model-e48b1761653 
 
-* **What is Grin?:** explenation on emission, transaction aggretation and mimble wimble with some nice visuals usefull for presentations, by Phyro.
+* **What is Grin?:** explanation on emission, transaction aggretation and Mimblewimble with some nice visuals usefull for presentations, by Phyro.
   + https://github.com/phyro/what-is-grin
 * **Grin newsletter:** Sign up or click on 'Read first' to read old Grin newsletters
   + https://grinnews.substack.com/
 
 ## External artikles 
-* **Articles on Grin and Mimble Wimble:** Just a few of the many, feel free to add more.
+* **Articles on Grin and Mimblewimble:** Just a few of the many, feel free to add more.
 https://www.blockchainbeach.com/going-deep-on-privacy-mimblewimble/
 https://smithandcrown.com/research/grin-mimblewimble/
 
@@ -78,7 +78,7 @@ https://smithandcrown.com/research/grin-mimblewimble/
   + https://t.me/GrinPP
 * **Grin Ironbelly Telegram group:** Any problems or questions with regard to Ironbelly wallet, ask here. 
   + https://t.me/ironbelly
-* **Grinventions Telegram channel:** Innovative inventions for the grin cryptocurrency. Also discusses building the MimbleWimble Python implementatoin and quantum computing basic in Python
+* **Grinventions Telegram channel:** Innovative inventions for the grin cryptocurrency. Also discusses building the Mimblewimble Python implementatoin and quantum computing basic in Python
   + https://t.me/grinventions
 * **Grin Twitter:** 'Activities suspended due to ....' When they try to silence you ,you know you are on the right path!
   + https://twitter.com/grinMW
