@@ -6,7 +6,7 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
   + https://github.com/grinventions/
 * **Grin Mail:** Automatically send and receive transactions via email (last commit 05-07-2021)
   + https://github.com/aixinrock/grinmail/blob/main/README-en.md
-* **Testnet exchange:** Template solution for exchanges consits of 2 pieces 1) the Grin Wallet APIs for Grin community wallet developers via a JSON-RPC interface 2) areference command-line wallet, which provides a baseline wallet for Grin and demonstrates how the wallet APIs should be called.
+* **Testnet exchange:** An example implementation for testnet exchange consists of 2 pieces 1) the Grin Wallet APIs for Grin community wallet developers via a JSON-RPC interface 2) areference command-line wallet, which provides a baseline wallet for Grin and demonstrates how the wallet APIs should be called.
   + https://github.com/pkariz/grin-wallet/tree/fix/invoice-issues
 * **grin-wallet:** command line (Rust), backend for Niffler and Ironbelly wallet
   + https://github.com/mimblewimble/grin-wallet
