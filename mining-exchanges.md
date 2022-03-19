@@ -6,7 +6,7 @@
 - [2Miners]( https://grin.2miners.com/  )
 - [gaeapool](  https://gaeapool.com/#/    )
 - [Grinmint]( https://grinmint.com/   )
-- [ Miners SOLO](https://solo-grin.2miners.com/ )
+- [2Miners SOLO](https://solo-grin.2miners.com/ )
 - [HeroMiners](https://grin.herominers.com/ )
 - [WoolyPooly](https://woolypooly.com/  )
 
