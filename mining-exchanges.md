@@ -20,15 +20,36 @@
 
 ## Exchanges
 
-- [Gateio](https://www.gateio.pro/trade/GRIN_USDT) KYC-Deposit/Withdraw-TOR Method-No Eu Citizens
+[Gateio](https://www.gateio.pro/trade/GRIN_USDT)
+- KYC
+- Deposit/Withdraw (using memo system)
+- TOR Method
+- Not available for EU Citizens
 
-- [Tradeogre](https://tradeogre.com/exchange/BTC-GRIN) NO KYC-Slatepack Method
 
-- [Bkex](https://www.bkex.com/trade/GRIN_USDT) KYC-Only Deposit-TOR Method
+[Tradeogre](https://tradeogre.com/exchange/BTC-GRIN) 
+- No KYC
+- Slatepack Method
+- Deposit-Withdrawal is supported.
 
-- [Bitforex](https://www.bitforex.com/en/spot/grin_usdt) KYC-https old method*
+[Bkex](https://www.bkex.com/trade/GRIN_USDT) - KYC
+- Only Deposit/Withdrawal is closed
+- TOR Method
 
-- [Hotbit](https://www.hotbit.io/exchange?symbol=GRIN_USDT) KYC-https old method*
+[Bitforex](https://www.bitforex.com/en/spot/grin_usdt)
+- KYC
+- Withdrawal supported
+- https old method*
+
+[Hotbit](https://www.hotbit.io/exchange?symbol=GRIN_USDT) 
+- KYC
+- https old method*
+
+[Bisq](https://bisq.network/) 
+- No KYC
+- Decentralized
+- BTC-Grin trading-pair
+    - BTC collateral equivalent to asking price when selling Grin
 
 <i>*Grin++, Ironbelly, Niffler wallets don't support https tx method. </i>
 
