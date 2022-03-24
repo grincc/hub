@@ -83,7 +83,7 @@ https://smithandcrown.com/research/grin-mimblewimble/
   + https://t.me/grinventions
 * **Grin Twitter:** 'Activities suspended due to ....' When they try to silence you ,you know you are on the right path!
   + https://twitter.com/grinMW
-* **MW Fediverere
+* **MW Fediverere:** Decentralised social network for Grinners
   + https://mw.social/timeline/local
 * **Grin Reddit:** Not that active, for more busy channels, check Telegram, Keybase and the forum.
   + https://www.reddit.com/r/GRIN/
