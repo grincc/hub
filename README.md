@@ -2,7 +2,9 @@
 GRIN scripts and tools. Find scripts [in this directory](https://github.com/grincc/tools/tree/main/scripts). Other tools are in the linked repositories below.
 
 # Hub of links to other repositories with Grin tools and scripts
-* **GrinVention:** Pure Python implementation of Mimblewimble protocol for Grin cryptocurrency.
+* **Grin official website:** Find all information and links to node and wallet software you might be searching for
+  + https://grin.mw/
+* **GrinVention:** Pure Python implementation of Mimblewimble protocol for Grin cryptocurrency 
   + https://github.com/grinventions/
 * **Grin Mail:** Automatically send and receive transactions via email (last commit 05-07-2021).
   + https://github.com/aixinrock/grinmail/blob/main/README-en.md
@@ -30,17 +32,20 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
   + https://grin.tokenview.com/en
 * **Grin scan money:**
   + https://scan.grin.money/chart/block
-  
+
+
+## shops, market, pay with grin
+* **Grin++ shop**
+  + https://shop.grinplusplus.com/
+* **Slatepack market place:** Buy and sell with Grin, have fun.
+  + https://slatepacks.com/
+
 # Other link outs
-* **Grin official website:** Find all information and links to node and wallet software you might be searching for.
-  + https://grin.mw/
 * **Grin main github page:**
   + https://github.com/mimblewimble/grin
 * **Grinnode.live:** high-available GRIN-API & Sync-Service (very convenient if you are a developer).
   + https://grinnode.live/
-* **Slatepack market place:** Buy and sell with Grin, have fun.
-  + https://slatepacks.com/
-* **Grin documentation:** Your journey down the rabbit hole starts here! Learn about where Grin comes from, Mimblewimble, Pedersen commitments, Eliptic Curve cryptography as well as practical tutorials on how to install and use the grin node software and grin-wallet.
+* **Grin documentation:** Your journey down the rabit hole starts here! Learn about where Grin comes from, Mimble Wimble, Pederson commitments, Eliptic Curve cryptography as well as practical tutorails on how to install and use the grin node software and grin-wallet.
   + https://docs.grin.mw/
 * **Grinflation:** A great website that shows all the economics around Grins's Fair 1   ツ per second supply rate, its inflation, total supply, market cap and price now and in times to come.
   +  https://grinflation.com/
