@@ -54,6 +54,11 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
   + https://lists.launchpad.net/mimblewimble/
 * **Grin Papyrus:** Collection of important documents and links related to the development of GRIN. Find back everything, the early steps towards Grin in 2016, launch in 2019 and everything that happened after
   + https://github.com/Grinnode-live/GRIN-papyrus
+* **CryptoProfG:** A series of articles shedding light to how grin works. 
+  + https://medium.com/@CryptoProfG/grin-money-explained-1-greater-than-bitcoin-myths-around-mimblewimble-and-grin-unlocked-adcc166ae864
+  + https://medium.com/@CryptoProfG/grin-money-explained-2-money-origins-purpose-and-inflation-4b7c1213ee  
+  + https://medium.com/@CryptoProfG/grin-money-explained-3-supply-and-monetary-properties-of-grin-aa753fdb91b8 
+  + https://medium.com/@CryptoProfG/grin-money-explained-4-exploring-grins-monetary-model-e48b1761653 
 * **What is Grin?:** explenation on emission, transaction aggretation and mimble wimble with some nice visuals usefull for presentations, by Phyro.
   + https://github.com/phyro/what-is-grin
 * **Grin newsletter:** Sign up or click on 'Read first' to read old Grin newsletters
