@@ -1,7 +1,7 @@
-# HUB - Tools - Documentation - Channels - Articles
+# HUB - Tools - Documentation - Channels - Articles - Memes - Marketing - Art
 GRIN scripts and tools. Find scripts [in this directory](https://github.com/grincc/tools/tree/main/scripts). Other tools are in the linked repositories below.
 
-# Hub of links to other repositories with Grin tools and scripts
+## Links to other repositories with Grin tools and scripts
 * **Grin official website:** Find all information and links to node and wallet software you might be searching for.
   + https://grin.mw/
 * **GrinVention:** Pure Python implementation of Mimblewimble protocol for Grin cryptocurrency.
@@ -38,7 +38,7 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
 * **Slatepack market place:** Buy and sell with Grin, have fun.
   + https://slatepacks.com/
 
-# Other link outs
+## Other link outs
 * **Grin main github page:**
   + https://github.com/mimblewimble/grin
 * **Grinnode.live:** high-available GRIN-API & Sync-Service (very convenient if you are a developer).
