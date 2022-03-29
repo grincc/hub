@@ -49,6 +49,8 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
 +  https://grinflation.com/
 * **A Different approach to Grin's inflation supply** A nice article showing a different view on Grin's supply, inflation and inherent fairness
   + https://madenuzmani.medium.com/a-different-approach-to-grins-inflation-and-supply-355266fc96be
+* **Grin art by grinsingularity**
+  + https://github.com/grinsingularity/GrinArt  
 * **Grin link to old mailing list**
   + https://lists.launchpad.net/mimblewimble/
 * **Grin Papyrus:** Collection of important documents and links related to the development of GRIN. Find back everything, the early steps towards Grin in 2016, launch in 2019 and everything that happened after.
@@ -68,7 +70,7 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
 https://www.blockchainbeach.com/going-deep-on-privacy-mimblewimble/
 https://smithandcrown.com/research/grin-mimblewimble/
 
-## Community channels and social media
+## Social Media and Community channels
 * **KeyBase:** Grincoin on keybase is the best place for technical discussions and to join general meetings.
   + https://keybase.io/team/grincoin
 * **Grin Forum:** Discuss everything Grin, meme contests, Research, mining, market, you name it!
@@ -83,7 +85,7 @@ https://smithandcrown.com/research/grin-mimblewimble/
   + https://t.me/grinventions
 * **Grin Twitter:** 'Activities suspended due to ....' When they try to silence you ,you know you are on the right path!
   + https://twitter.com/grinMW
-* **MW Fediverere:** Decentralised social network for Grinners
+* **MW Fediverere:** The Decentralised social network for Grinners
   + https://mw.social/timeline/local
 * **Grin Reddit:** Not that active, for more busy channels, check Telegram, Keybase and the forum.
   + https://www.reddit.com/r/GRIN/
