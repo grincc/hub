@@ -50,6 +50,13 @@
 - Decentralized
 - BTC-Grin trading-pair
     - BTC collateral equivalent to asking price when selling Grin
+  
+[100x APP](https://100x.app/)
+- No KYC, requires phone number and biometricts
+- Centralised Escrow, decentralised trading 
+    - Stable coin intermdiate
+- In beta, use at own Risk
+- Actively promotes using Grin as intermediate and cash
 
 <i>*Grin++, Ironbelly, Niffler wallets don't support https tx method. </i>
 
