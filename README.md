@@ -38,7 +38,8 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
 * **Slatepack market place:** Buy and sell with Grin, have fun.
   + https://slatepacks.com/
 
-## Grin Developers: Your journey down the rabit hole starts here
+## Grin Developers
+* ***Your journey down the rabit hole starts here***
 * **Grin main github page:**
   + https://github.com/mimblewimble/grin
 * **Help debug and improve node and wallet**
