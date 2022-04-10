@@ -55,7 +55,7 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
 
 ## Other link outs
 * **Grinflation:** A great website that shows all the economics around Grins's Fair 1   ツ per second supply rate, its inflation, total supply, market cap and price now and in times to come.
-+  https://grinflation.com/
+   +  https://grinflation.com/
 * **A Different approach to Grin's inflation supply** A nice article showing a different view on Grin's supply, inflation and inherent fairness
   + https://madenuzmani.medium.com/a-different-approach-to-grins-inflation-and-supply-355266fc96be
 * **Grin art by grinsingularity**
