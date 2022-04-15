@@ -33,7 +33,7 @@
 - Deposit-Withdrawal is supported.
 
 [Bkex](https://www.bkex.com/trade/GRIN_USDT) - KYC
-- Only Deposit/Withdrawal is closed
+- Deposit-Withdrawal is supported (using memo system)
 - TOR Method
 
 [Bitforex](https://www.bitforex.com/en/spot/grin_usdt)
@@ -57,6 +57,13 @@
 - In beta, use at own Risk
 - Buy using Paypal, Venmo zelle
 - Actively promotes using Grin as cash
+
+[ZB](https://www.zb.com/en/trade/grin_usdt)
+- KYC
+- Deposit/Withdraw (using memo system)
+- TOR Method
+
+
 
 <i>*Grin++, Ironbelly, Niffler wallets don't support https tx method. </i>
 
