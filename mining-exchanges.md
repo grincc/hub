@@ -15,6 +15,7 @@
 - [ipollo ]( http://ipollo.com/ )
 - [NHASH](https://www.nhash.net/ )
 - [Powpower](https://www.powpower.net/product/ipollo-g1-mini/)
+- [Newegg](https://www.newegg.com/p/0X6-09A3-00001)
 
 
 
