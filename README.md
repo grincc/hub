@@ -65,6 +65,13 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
 * **Grin newsletter:** Sign up or click on 'Read first' to read old Grin newsletters.
   + https://grinnews.substack.com/
 
+* **Grin Post:** Another channel to follow grin news.
+  + https://grinpost.substack.com/
+
+* **Grin Post Medium:** Medium articles 
+  + https://grinpost.medium.com/ 
+
+
 ## External artikles 
 * **Articles on Grin and Mimble Wimble:** Just a few of the many, feel free to add more.
 https://www.blockchainbeach.com/going-deep-on-privacy-mimblewimble/
@@ -93,3 +100,6 @@ https://smithandcrown.com/research/grin-mimblewimble/
   + https://www.reddit.com/r/grincoin/
 * **Grin Discord community:** Meet other grin followers on discord.
   + https://discord.gg/5p4vCQY9km
+
+* **Grin Community Channel:** Cekickafa's youtube channel for Grin info, tutorials...
+  + https://www.youtube.com/channel/UCdTLEB6xPSuJqye6NXbs1HQ/videos
