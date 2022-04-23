@@ -58,7 +58,7 @@
 
 
 
-<i>*Grin++, Ironbelly, Niffler wallets don't support https tx method. </i>
+<i>*Grin++, Ironbelly wallets don't support https tx method. </i>
 
 
-<i>**Last updated: 2022-03-19**</i>
+<i>**Last updated: 2022-04-23**</i>
