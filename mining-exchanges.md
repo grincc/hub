@@ -15,6 +15,7 @@
 - [ipollo ]( http://ipollo.com/ )
 - [NHASH](https://www.nhash.net/ )
 - [Powpower](https://www.powpower.net/product/ipollo-g1-mini/)
+- [Newegg](https://www.newegg.com/p/0X6-09A3-00001)
 
 
 
@@ -47,18 +48,22 @@
 
 [Bisq](https://bisq.network/) 
 - No KYC
-- Decentralized
+- Completely decentralized and community governed
 - BTC-Grin trading-pair
     - BTC collateral equivalent to asking price when selling Grin
+  
+[100x APP](https://100x.app/)
+- No KYC, peer to peer. While in beta requires whitelisting on Discord
+- Escrow, Stable coin intermdiate
+- In beta, use at own Risk
+- Buy using Paypal, Venmo zelle
+- Actively promotes using Grin as cash
 
 [ZB](https://www.zb.com/en/trade/grin_usdt)
 - KYC
 - Deposit/Withdraw (using memo system)
 - TOR Method
 
-
-
 <i>*Grin++, Ironbelly wallets don't support https tx method. </i>
-
 
 <i>**Last updated: 2022-04-23**</i>

@@ -38,15 +38,24 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
 * **Slatepack market place:** Buy and sell with Grin, have fun.
   + https://slatepacks.com/
 
-## Other link outs
+## Grin Developers
+* ***Your journey down the rabit hole starts here***
 * **Grin main github page:**
   + https://github.com/mimblewimble/grin
+* **Help debug and improve node and wallet**
+  + https://github.com/mimblewimble/grin/blob/master/doc/build.md
+* **Python wrappers for the Grin node and wallet API**
+  + https://github.com/grinfans/grinmw.py
+* **Grin++ technical design, wiki and API documentation**
+  + https://github.com/GrinPlusPlus/GrinPlusPlus/wiki/Technical-Design
 * **Grinnode.live:** high-available GRIN-API & Sync-Service (very convenient if you are a developer).
   + https://grinnode.live/
 * **Grin documentation:** Your journey down the rabit hole starts here! Learn about where Grin comes from, Mimble Wimble, Pederson commitments, Eliptic Curve cryptography as well as practical tutorails on how to install and use the grin node software and grin-wallet.
   + https://docs.grin.mw/
+
+## Other link outs
 * **Grinflation:** A great website that shows all the economics around Grins's Fair 1   ツ per second supply rate, its inflation, total supply, market cap and price now and in times to come.
-+  https://grinflation.com/
+   +  https://grinflation.com/
 * **A Different approach to Grin's inflation supply** A nice article showing a different view on Grin's supply, inflation and inherent fairness
   + https://madenuzmani.medium.com/a-different-approach-to-grins-inflation-and-supply-355266fc96be
 * **Grin art by grinsingularity**
@@ -60,6 +69,8 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
   + https://medium.com/@CryptoProfG/grin-money-explained-2-money-origins-purpose-and-inflation-4b7c1213ee  
   + https://medium.com/@CryptoProfG/grin-money-explained-3-supply-and-monetary-properties-of-grin-aa753fdb91b8 
   + https://medium.com/@CryptoProfG/grin-money-explained-4-exploring-grins-monetary-model-e48b1761653 
+* **Interview with Ignotus Peverell (Internet Archive
+  + https://web.archive.org/web/20210304063138/https://breakermag.com/grin-founder-ignotus-peverell-on-life-after-launch-and-the-path-forward/
 * **What is Grin?:** explenation on emission, transaction aggretation and mimble wimble with some nice visuals usefull for presentations, by Phyro.
   + https://github.com/phyro/what-is-grin
 * **Grin newsletter:** Sign up or click on 'Read first' to read old Grin newsletters.
