@@ -18,6 +18,8 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
   + https://github.com/i1skn/ironbelly
 * **Niffler GUI wallet:** Rust grin-wallet (rust) as backend.
   + https://github.com/grinfans/niffler
+* **Easy Grin webwallet:**  Easy to use online webwallet. Remember, not you keys, not your coins. We advice to only use this as an intermediate wallet, e.g. to recieve mining reward. Only use with small amounts.
+  + https://wallet.easygrin.org/
 * **Vault713 - Grinbox:** (last commit 2019) - Grinbox provides a simple way for parties to exchange transaction slates, 3rd party as transaction buffer/intermediate.
   + https://github.com/vault713/grinbox
 * **GrinGots wizarding bank:** (last commits in 2019), Gringotts is a CLI app that you can use to send and receive grins instantly using one of the available backends for communication.
