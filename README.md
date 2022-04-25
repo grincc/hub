@@ -106,7 +106,7 @@ https://github.com/grincc/hub/blob/main/mining-exchanges.md
   + https://medium.com/@CryptoProfG/grin-money-explained-2-money-origins-purpose-and-inflation-4b7c1213ee  
   + https://medium.com/@CryptoProfG/grin-money-explained-3-supply-and-monetary-properties-of-grin-aa753fdb91b8 
   + https://medium.com/@CryptoProfG/grin-money-explained-4-exploring-grins-monetary-model-e48b1761653 
-* **Interview with Ignotus Peverell (Internet Archive
+* **Interview with Ignotus Peverell (Internet Archive:**
   + https://web.archive.org/web/20210304063138/https://breakermag.com/grin-founder-ignotus-peverell-on-life-after-launch-and-the-path-forward/
 * **What is Grin?:** explenation on emission, transaction aggretation and mimble wimble with some nice visuals usefull for presentations, by Phyro.
   + https://github.com/phyro/what-is-grin
