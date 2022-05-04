@@ -15,6 +15,7 @@
 - [ipollo ]( http://ipollo.com/ )
 - [NHASH](https://www.nhash.net/ )
 - [Powpower](https://www.powpower.net/product/ipollo-g1-mini/)
+- [Newegg](https://www.newegg.com/p/0X6-09A3-00001)
 
 
 
@@ -33,7 +34,7 @@
 - Deposit-Withdrawal is supported.
 
 [Bkex](https://www.bkex.com/trade/GRIN_USDT) - KYC
-- Only Deposit/Withdrawal is closed
+- Deposit-Withdrawal is supported (using memo system)
 - TOR Method
 
 [Bitforex](https://www.bitforex.com/en/spot/grin_usdt)
@@ -58,7 +59,11 @@
 - Buy using Paypal, Venmo zelle
 - Actively promotes using Grin as cash
 
-<i>*Grin++, Ironbelly, Niffler wallets don't support https tx method. </i>
+[ZB](https://www.zb.com/en/trade/grin_usdt)
+- KYC
+- Deposit/Withdraw (using memo system)
+- TOR Method
 
+<i>*Grin++, Ironbelly wallets don't support https tx method. </i>
 
-<i>**Last updated: 2022-03-19**</i>
+<i>**Last updated: 2022-04-23**</i>
