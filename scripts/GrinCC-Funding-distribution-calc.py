@@ -7,7 +7,7 @@ In case an applicant prefers to be paid less than the default 10%, sound
 argumentation why this deviation is required are expected.
 """
 import argparse
-from datetime import datetime
+from datetime import datetime, timedelta
 
 from pycoingecko import CoinGeckoAPI
 
@@ -18,9 +18,7 @@ MONTHS = -1
 
 
 def month_delta(date: datetime, delta: int):
-    m, y = (date.month + delta) % 12, date.year + (
-        (date.month) + delta - 1
-    ) // 12
+    m, y = (date.month + delta) % 12, date.year + ((date.month) + delta - 1) // 12
     if not m:
         m = 12
     d = min(
@@ -50,22 +48,26 @@ def calculate_sma(id: str, vs: str, since: datetime, until: datetime):
     adding a stock's prices over a certain period and dividing the sum by the
     total number of periods.
     """
-
+    diff = (until-since).total_seconds()
     cg = CoinGeckoAPI()
+
+    if(diff == 0):
+        since = since - timedelta(minutes=60)
+    
     prices = cg.get_coin_market_chart_range_by_id(
         id=id,
         vs_currency=vs.lower(),
         from_timestamp=since.timestamp(),
         to_timestamp=until.timestamp(),
     ).get("prices")
-
+    
     periods = len(prices)
     total = 0
     for price in prices:
         total += price[1]
 
     return total / periods
-
+    
 
 def split_funding(request: float):
     btc = request * (BTC_PERCENTAGE / 100)
@@ -74,9 +76,7 @@ def split_funding(request: float):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(
-        description="Calculate SMA of a cryptocurrency"
-    )
+    parser = argparse.ArgumentParser(description="Calculate SMA of a cryptocurrency")
 
     parser.add_argument(
         "Funding", metavar="funding", type=float, help="Funding Request"
@@ -91,14 +91,14 @@ if __name__ == "__main__":
 
     until = datetime.strptime(date_string, "%Y-%m-%d %H:%M")
     since = month_delta(until, MONTHS)
-
+    
     btc_sma = calculate_sma("bitcoin", vs, since, until)
     grin_sma = calculate_sma("grin", vs, since, until)
 
     p90, p10 = split_funding(funding)
 
-    bitcoins = p90/btc_sma
-    grins = p10/grin_sma
+    bitcoins = p90 / btc_sma
+    grins = p10 / grin_sma
 
     print(f" Date:\t\t{date_string}")
     print(f" Request:\t{funding:,.2f} {vs.upper()}")
