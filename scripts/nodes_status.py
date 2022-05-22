@@ -12,8 +12,8 @@ clear = lambda: os.system("tput reset")
 
 if __name__ == "__main__":
     while True:
-        clear()
         nodes = load_list(FILENAME)
         table = add_rows_to_table(create_table(), nodes)
+        clear()
         print(table, flush=True)
         sleep(SLEEP_SECONDS)
