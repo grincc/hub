@@ -2,7 +2,10 @@
 
 import json
 import socket
+from datetime import datetime
 from subprocess import getoutput
+
+from prettytable.colortable import ColorTable, Themes
 
 
 def load_list(filename):
@@ -36,6 +39,50 @@ def get_connected_peers_info(ip, is_rust=True):
         else:
             inbounds += 1
     return inbounds, outbounds
+
+
+def create_table():
+    table = ColorTable(theme=Themes.OCEAN)
+    table.field_names = [
+        "",
+        "IP",
+        "Height",
+        "Inbounds",
+        "Outbounds",
+        "Agent",
+        "City",
+        "State",
+        "Date",
+        "Time",
+        "Network",
+    ]
+    return table
+
+
+def add_rows_to_table(table, nodes):
+    i = 1
+    for ip in nodes:
+        node_info = nodes[ip]
+        updated_at = datetime.now()
+        is_rust = "Grin++" not in node_info[0]
+        height = get_height_info(ip, is_rust)
+        inbounds, outbounds = get_connected_peers_info(ip, is_rust)
+        table.add_row(
+            [
+                i,
+                ip,
+                height,
+                inbounds,
+                outbounds,
+                node_info[0],
+                node_info[1],
+                node_info[2],
+                updated_at.strftime("%d-%b-%Y"),
+                updated_at.strftime("%H:%M:%S"),
+                node_info[3],
+            ]
+        )
+        i += 1
 
 
 def check_port(ip, port=3414):
