@@ -83,6 +83,7 @@ def add_rows_to_table(table, nodes):
             ]
         )
         i += 1
+    return table
 
 
 def check_port(ip, port=3414):
