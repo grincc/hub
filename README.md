@@ -5,10 +5,12 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
 * **Grin official website:** Find all information and links to node and wallet software you might be searching for.
   + https://grin.mw/
 * **Grin Community Council site:** Find usefull information, linking to Grin Hub, Running projects, Wishlists, Community meeting agenda's notes and governance information.
-  + https://grincc.mw/
+  + https://grincc.mw/:**
 
 ## List of Exchanges and Miner distributors
 https://github.com/grincc/hub/blob/main/mining-exchanges.md
+* **How to mine with G1 Mini:**
+  + https://forum.grin.mw/t/how-to-mine-grin-with-g1-mini-steps/9796
 
 ## Grin wallets
 * **grin-wallet:** command line (Rust), backend for Niffler and Ironbelly wallet.
