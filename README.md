@@ -89,8 +89,10 @@ https://github.com/grincc/hub/blob/main/mining-exchanges.md
   + https://github.com/GrinPlusPlus/GrinPlusPlus/wiki/Technical-Design
 * **Grinnode.live:** high-available GRIN-API & Sync-Service (very convenient if you are a developer).
   + https://grinnode.live/
-* **Grin documentation:** Learn about the origin of Grin, Mimble Wimble, Pederson commitments, Eliptic Curve cryptography as well as practical tutorails on how to install and use the grin node software and grin-wallet.
+* **Grin documentation:** Learn about the origin of Grin, Mimble Wimble, Pederson commitments, Eliptic Curve cryptography as well as practical tutorials on how to install and use the grin node software and grin-wallet.
   + https://docs.grin.mw/
+* **Ask if you need something more: **
+  + Is there anything else you need as aspiring Grin developer? Please ask, so we can tailer the Developer content to your needs. Just reachout to Anynomous on KeyBase.
 
 ## Other link outs
 * **Grinflation:** A great website that shows all the economics around Grins's Fair 1   ツ per second supply rate, its inflation, total supply, market cap and price now and in times to come.
