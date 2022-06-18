@@ -9,6 +9,7 @@
 - [2Miners SOLO](https://solo-grin.2miners.com/ )
 - [HeroMiners](https://grin.herominers.com/ )
 - [WoolyPooly](https://woolypooly.com/  )
+- [EasyGrin](https://pool.easygrin.org/ )
 
 ## Asic Hardware Firms
 
