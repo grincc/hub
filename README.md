@@ -53,6 +53,8 @@ https://github.com/grincc/hub/blob/main/mining-exchanges.md
   + https://t.me/grinventions
 * **Grin Twitter:** 'Activities suspended due to ....' When they try to silence you ,you know you are on the right path!
   + https://twitter.com/grinMW
+* **One Grin meme per day for 1 year:** Brighten your day and get your daily dosage of Grinage with one Grin meme per day, thanks to @GriniumMemiosa
+  + https://twitter.com/GriniumMemiosa
 * **MW Fediverere:** The Decentralised social network for Grinners
   + https://mw.social/timeline/local
 * **Grin Reddit:** Not that active, for more busy channels, check Telegram, Keybase and the forum.
