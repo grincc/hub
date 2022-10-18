@@ -7,8 +7,8 @@
 - [gaeapool](  https://gaeapool.com/#/    )
 - [Grinmint]( https://grinmint.com/   )
 - [2Miners SOLO](https://solo-grin.2miners.com/ )
-- [HeroMiners](https://grin.herominers.com/ )
-- [WoolyPooly](https://woolypooly.com/  )
+- [HeroMiners](https://grin.herominers.com/ ) 
+- [EasyGrin](https://pool.easygrin.org/ )
 
 ## Asic Hardware Firms
 
@@ -16,7 +16,7 @@
 - [NHASH](https://www.nhash.net/ )
 - [Powpower](https://www.powpower.net/product/ipollo-g1-mini/)
 - [Newegg](https://www.newegg.com/p/0X6-09A3-00001)
-
+- 
 
 
 ## Exchanges
@@ -24,7 +24,7 @@
 [Gateio](https://www.gateio.pro/trade/GRIN_USDT)
 - KYC
 - Deposit/Withdraw (using memo system)
-- TOR Method
+- TOR Method ***
 - Not available for EU Citizens
 
 
@@ -33,10 +33,11 @@
 - Slatepack Method
 - Deposit-Withdrawal is supported.
 
-[Bkex](https://www.bkex.com/trade/GRIN_USDT) - KYC
+[Bkex](https://www.bkex.com/trade/GRIN_USDT)
+- KYC
 - Deposit-Withdrawal is supported (using memo system)
-- TOR Method
-
+- TOR Method ***
+ 
 [Bitforex](https://www.bitforex.com/en/spot/grin_usdt)
 - KYC
 - Withdrawal supported
@@ -62,8 +63,10 @@
 [ZB](https://www.zb.com/en/trade/grin_usdt)
 - KYC
 - Deposit/Withdraw (using memo system)
-- TOR Method
+- TOR Method ***
 
 <i>*Grin++, Ironbelly wallets don't support https tx method. </i>
 
-<i>**Last updated: 2022-04-23**</i>
+<i>**Last updated: 2022-10-18**</i>
+
+<i>*** Check wallets if listening via [Grin.nodelivecheck](https://grinnode.live/tools/wallet-checker) or [GrinAdresscheck](https://grinchck.uber.space/)
