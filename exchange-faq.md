@@ -4,7 +4,7 @@
 
 | Item | Link/Answer |
 | ----------- | ----------- |
-| Blockchain Explorer |  https://scan.grin.money/   |
+| Blockchain Explorer | https://grinexplorer.net/ |  https://scan.grin.money/   |
 | Technical Docs |  https://docs.grin.mw/ [node](https://docs.rs/grin_api/latest/grin_api/) [wallet](https://docs.rs/grin_wallet/5.1.0/grin_wallet/)  |
 | Average block time | 60 sec |
 | UTXO or account model |UTXO |
@@ -88,9 +88,15 @@ https://docs.grin.mw/getting-started/build/
 
 ?????
 
+
 ### **Wallet**
 official repository
 [https://github.com/mimblewimble/grin-wallet](https://github.com/mimblewimble/grin-wallet/releases/)
 
+
+#### - GRIN Mining Pool distribution
+https://github.com/Grinnode-live/grinnode.live/blob/master/documentation/mining-pools-list.md
+
+Updated every month by volunteers.
 
 
