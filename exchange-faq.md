@@ -58,7 +58,7 @@ https://github.com/grincc/grin-wallet-api-tutorial#obtaining-wallet-balance
 
 
 ### **Node**
-
+official repository
 https://github.com/mimblewimble/grin/releases
 
 #### - Access instruction of public Nodes
@@ -87,5 +87,10 @@ https://docs.grin.mw/getting-started/build/
 
 
 ?????
+
+### **Wallet**
+official repository
+[https://github.com/mimblewimble/grin-wallet](https://github.com/mimblewimble/grin-wallet/releases/)
+
 
 
