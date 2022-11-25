@@ -88,4 +88,9 @@ https://docs.grin.mw/getting-started/build/
 
 ?????
 
+#### - GRIN Mining Pool distribution
+https://github.com/Grinnode-live/grinnode.live/blob/master/documentation/mining-pools-list.md
+
+Updated every month by volunteers.
+
 
