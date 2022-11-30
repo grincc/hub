@@ -118,9 +118,7 @@ https://github.com/grincc/hub/blob/main/mining-exchanges.md
   + https://github.com/phyro/what-is-grin
 * **Grin newsletter:** Sign up or click on 'Read first' to read old Grin newsletters.
   + https://grinnews.substack.com/
- 
 * **Grin Post:** Another channel to follow grin development news.
- 
   + https://grinpost.substack.com/
 * **Grin Post Medium:** Medium articles about Grin.
   + https://grinpost.medium.com/ 
