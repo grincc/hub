@@ -1,4 +1,9 @@
 
+### 16.05.2022
+### added
+- Node status script.
+![nodes](https://github.com/grincc/hub/raw/main/scripts/Screenshot%202022-05-16%20at%2008.33.44.png)
+
 ### 18.10.2021
 ### added
 - CC funding request distribution calculator
