@@ -76,7 +76,7 @@ GRIN scripts and tools. Find scripts [in this directory](https://github.com/grin
 * **Grin newsletter:** Sign up or click on 'Read first' to read old Grin newsletters.
   + https://grinnews.substack.com/
 
-* **Grin Post:** Another channel to follow grin development news.
+* **Grin Post Newsletter:** Another channel to follow grin development news.
   + https://grinpost.substack.com/
 
 * **Grin Post Medium:** Medium articles about Grin.
