@@ -4,15 +4,12 @@
 
 | Item | Link/Answer |
 | ----------- | ----------- |
- 
-| Blockchain Explorer | https://grinexplorer.net/ |  https://scan.grin.money/   |
-| Technical Docs |  https://docs.grin.mw/ [node](https://docs.rs/grin_api/latest/grin_api/) [wallet](https://docs.rs/grin_wallet/5.1.0/grin_wallet/)  |
- 
+| Blockchain Explorer |  https://scan.grin.money/   |
+| Technical Docs |  https://docs.grin.mw/ [node](https://docs.rs/grin_api/latest/grin_api/) [wallet](https://docs.rs/grin_wallet_libwallet/5.1.0/grin_wallet_libwallet/)  |
 | Average block time | 60 sec |
 | UTXO or account model |UTXO |
 | Consensus mechanism | Proof of Work |
-| Proposed number on-chain confirms for deposit | 12  |
-| | |
+| Proposed number on-chain confirms for deposit | 30 |
 
  
 
