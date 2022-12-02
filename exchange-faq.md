@@ -4,8 +4,8 @@
 
 | Item | Link/Answer |
 | ----------- | ----------- |
-| Blockchain Explorer |  https://scan.grin.money/   |
-| Technical Docs |  https://docs.grin.mw/ [node](https://docs.rs/grin_api/latest/grin_api/) [wallet](https://docs.rs/grin_wallet_libwallet/5.1.0/grin_wallet_libwallet/)  |
+| Blockchain Explorer | https://grinexplorer.net/ |    
+| Technical Docs |  https://docs.grin.mw/ [node](https://docs.rs/grin_api/latest/grin_api/) [wallet](https://docs.rs/grin_wallet/5.1.0/grin_wallet/)  |
 | Average block time | 60 sec |
 | UTXO or account model |UTXO |
 | Consensus mechanism | Proof of Work |
