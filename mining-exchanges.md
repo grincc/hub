@@ -34,14 +34,10 @@
 - Slatepack Method
 - Deposit-Withdrawal is supported.
 
-[Ztb](https://www.ztb.im/exchange?coin=GRIN_USDT)
-- KYC
-- Deposit-Withdrawal is disabled at the moment
-- TOR Method ***
  
 [Bitforex](https://www.bitforex.com/en/spot/grin_usdt)
 - KYC
-- Withdrawal supported
+- Withdrawal supported.
 - https old method*
 
 [Hotbit](https://www.hotbit.io/exchange?symbol=GRIN_USDT) 
@@ -67,6 +63,9 @@
 
 <i>*Grin++, Ironbelly wallets don't support https tx method. </i>
 
-<i>**Last updated: 2022-11-30**</i> This is not an endorsement, always do your research.
 
 <i>*** Check wallets if listening via [Grin.nodelivecheck](https://grinnode.live/tools/wallet-checker) or [GrinAdresscheck](https://grinchck.uber.space/)
+
+Disclaimer: Exchange and pool infos are taken from Grin users & community feedback, **not an endorsement.** Always do your research.
+
+<i>**Last updated: 2022-12-09**</i> 
