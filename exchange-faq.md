@@ -7,7 +7,7 @@
 | Average block time | 60 seconds |
 | UTXO or account model | UTXO |
 | Consensus mechanism | Proof of work |
-| Proposed number of on-chain confirms for deposit | 30 |
+| Proposed number of on-chain confirmations for deposit | 30 |
 
 
 ## Grin SDK Location
