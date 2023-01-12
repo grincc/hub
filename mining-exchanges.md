@@ -32,7 +32,7 @@
 - Not available for EU Citizens
 
 [Kucoin](https://www.kucoin.com)
-- KYC
+- No KYC unless funds are more than 1 BTC
 - Withdrawel comming sooon!
 
 [Bkex](https://www.bkex.com/trade/GRIN_USDT)
