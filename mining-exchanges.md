@@ -34,11 +34,6 @@
 [Kucoin](https://www.kucoin.com)
 - No KYC unless funds are more than 1 BTC
 - Withdrawel comming sooon!
-
-[Bkex](https://www.bkex.com/trade/GRIN_USDT)
-- KYC
-- Deposit-Withdrawal is supported (using memo system)
-- TOR Method ***
  
 [Bitforex](https://www.bitforex.com/en/spot/grin_usdt)
 - KYC
