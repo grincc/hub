@@ -9,6 +9,7 @@
 - [2Miners SOLO](https://solo-grin.2miners.com/ )
 - [HeroMiners](https://grin.herominers.com/ ) 
 - [EasyGrin](https://pool.easygrin.org/ )
+- [Easy Grin SOLO](https://solo.easygrin.org/ ) 
 
 ## Asic Hardware Firms
 
@@ -35,14 +36,10 @@
 - No KYC unless funds are more than 1 BTC
 - Withdrawel comming sooon!
 
-[Bkex](https://www.bkex.com/trade/GRIN_USDT)
-- KYC
-- Deposit-Withdrawal is supported (using memo system)
-- TOR Method ***
  
 [Bitforex](https://www.bitforex.com/en/spot/grin_usdt)
 - KYC
-- Withdrawal supported
+- Withdrawal supported.
 - https old method*
 
 [Hotbit](https://www.hotbit.io/exchange?symbol=GRIN_USDT) 
@@ -64,11 +61,13 @@
 
 [ZB](https://www.zb.com/en/trade/grin_usdt)
 - KYC
-- Deposit/Withdraw (using memo system)
-- TOR Method ***
+- Deposit/Withdraw Disabled 
 
 <i>*Grin++, Ironbelly wallets don't support https tx method. </i>
 
-<i>**Last updated: 2022-10-18**</i>
 
 <i>*** Check wallets if listening via [Grin.nodelivecheck](https://grinnode.live/tools/wallet-checker) or [GrinAdresscheck](https://grinchck.uber.space/)
+
+Disclaimer: Exchange and pool infos are taken from Grin users & community feedback, **not an endorsement.** Always do your research.
+
+<i>**Last updated: 2022-12-09**</i> 
