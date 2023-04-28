@@ -39,7 +39,7 @@
 
 [Hotbit](https://www.hotbit.io/exchange?symbol=GRIN_USDT) 
 - KYC
-- https old method, so no real option to wintdraw or deposit!*
+- https old method only*
 
 [Bisq](https://bisq.network/) 
 - No KYC
