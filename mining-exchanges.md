@@ -42,7 +42,7 @@
 
 [Hotbit](https://www.hotbit.io/exchange?symbol=GRIN_USDT) 
 - KYC
-- https old method*
+- Wallets closed.
 
 [Bisq](https://bisq.network/) 
 - No KYC
@@ -57,9 +57,7 @@
 - Buy using Paypal, Venmo zelle
 - Actively promotes using Grin as cash
 
-[ZB](https://www.zb.com/en/trade/grin_usdt)
-- KYC
-- Deposit/Withdraw Disabled 
+
 
 <i>*Grin++, Ironbelly wallets don't support https tx method. </i>
 
@@ -68,4 +66,4 @@
 
 Disclaimer: Exchange and pool infos are taken from Grin users & community feedback, **not an endorsement.** Always do your research.
 
-<i>**Last updated: 2022-12-09**</i> 
+<i>**Last updated: 2023-04-28**</i> 
