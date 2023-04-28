@@ -31,11 +31,6 @@
 - Deposit/Withdraw (using memo system)
 - TOR Method ***
 - Not available for EU Citizens
-
-[Kucoin](https://www.kucoin.com)
-- No KYC unless funds are more than 1 BTC
-- Withdrawel comming sooon!
-
  
 [Bitforex](https://www.bitforex.com/en/spot/grin_usdt)
 - KYC
@@ -44,7 +39,7 @@
 
 [Hotbit](https://www.hotbit.io/exchange?symbol=GRIN_USDT) 
 - KYC
-- https old method*
+- https old method, so no real option to wintdraw or deposit!*
 
 [Bisq](https://bisq.network/) 
 - No KYC
