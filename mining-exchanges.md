@@ -21,6 +21,10 @@
 
 
 ## Exchanges
+[Tradeogre](https://tradeogre.com/exchange/BTC-GRIN) 
+- No KYC
+- Slatepack Method
+- Deposit-Withdrawal is supported.
 
 [Gateio](https://www.gateio.pro/trade/GRIN_USDT)
 - KYC
@@ -28,11 +32,9 @@
 - TOR Method ***
 - Not available for EU Citizens
 
-
-[Tradeogre](https://tradeogre.com/exchange/BTC-GRIN) 
-- No KYC
-- Slatepack Method
-- Deposit-Withdrawal is supported.
+[Kucoin](https://www.kucoin.com)
+- No KYC unless funds are more than 1 BTC
+- Withdrawel comming sooon!
 
  
 [Bitforex](https://www.bitforex.com/en/spot/grin_usdt)
