@@ -17,7 +17,7 @@
 - [NHASH](https://www.nhash.net/ )
 - [Powpower](https://www.powpower.net/product/ipollo-g1-mini/)
 - [Newegg](https://www.newegg.com/p/0X6-09A3-00001)
-- 
+
 
 
 ## Exchanges
@@ -31,16 +31,15 @@
 - Deposit/Withdraw (using memo system)
 - TOR Method ***
 - Not available for EU Citizens
+
+ 
  
 [Bitforex](https://www.bitforex.com/en/spot/grin_usdt)
 - KYC
 - Withdrawal supported.
 - https old method*
 
-[Hotbit](https://www.hotbit.io/exchange?symbol=GRIN_USDT) 
-- KYC
-- https old method only*
-
+ 
 [Bisq](https://bisq.network/) 
 - No KYC
 - Completely decentralized and community governed
@@ -54,9 +53,7 @@
 - Buy using Paypal, Venmo zelle
 - Actively promotes using Grin as cash
 
-[ZB](https://www.zb.com/en/trade/grin_usdt)
-- KYC
-- Deposit/Withdraw Disabled 
+
 
 <i>*Grin++, Ironbelly wallets don't support https tx method. </i>
 
@@ -65,4 +62,5 @@
 
 Disclaimer: Exchange and pool infos are taken from Grin users & community feedback, **not an endorsement.** Always do your research.
 
-<i>**Last updated: 2022-12-09**</i> 
+ 
+<i>**Last updated: 2023-05-24**</i> 
