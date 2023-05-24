@@ -62,4 +62,4 @@
 
 Disclaimer: Exchange and pool infos are taken from Grin users & community feedback, **not an endorsement.** Always do your research.
 
-<i>**Last updated: 2023-05-24**</i> 
+ 
