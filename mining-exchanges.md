@@ -17,7 +17,7 @@
 - [NHASH](https://www.nhash.net/ )
 - [Powpower](https://www.powpower.net/product/ipollo-g1-mini/)
 - [Newegg](https://www.newegg.com/p/0X6-09A3-00001)
-- 
+
 
 
 ## Exchanges
@@ -32,20 +32,14 @@
 - TOR Method ***
 - Not available for EU Citizens
 
-[Kucoin](https://www.kucoin.com)
-- No KYC unless funds are more than 1 BTC
-- Withdrawel comming sooon!
-
+ 
  
 [Bitforex](https://www.bitforex.com/en/spot/grin_usdt)
 - KYC
 - Withdrawal supported.
 - https old method*
 
-[Hotbit](https://www.hotbit.io/exchange?symbol=GRIN_USDT) 
-- KYC
-- Wallets closed.
-
+ 
 [Bisq](https://bisq.network/) 
 - No KYC
 - Completely decentralized and community governed
@@ -68,4 +62,4 @@
 
 Disclaimer: Exchange and pool infos are taken from Grin users & community feedback, **not an endorsement.** Always do your research.
 
-<i>**Last updated: 2023-04-28**</i> 
+<i>**Last updated: 2023-05-24**</i> 
