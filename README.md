@@ -78,6 +78,8 @@ https://github.com/grincc/hub/blob/main/mining-exchanges.md
 * **GrinGots wizarding bank:** (last commits in 2019), Gringotts is a CLI app that you can use to send and receive grins instantly using one of the available backends for communication.
   + https://github.com/mcdallas/gringotts
   + https://github.com/mcdallas/gringotts-rust
+* **Grin vanity address generator:** Slatepack vanity address generator written in Rust
+  + https://github.com/MakisChristou/grin-vanity
 
 ## Grin Developers
 * ***Your journey down the rabit hole starts here***
