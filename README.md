@@ -27,8 +27,10 @@ https://github.com/grincc/hub/blob/main/mining-exchanges.md
 ## Shops, Market, Pay with grin
 * **Grin++ shop**
   + https://shop.grinplusplus.com/
-* **Slatepack market place:** Buy and sell with Grin, have fun.
+* **Slatepack market place:** Buy and sell with Grin, have fun. - discontinued
   + https://slatepacks.com/
+* **https://grinily.com/** Buy Grin mucks or non Grin related apparel, pay in Grin
+  + https://grinily.com/
 
 ## Grin block explorers
 * **Grin Explorer:**
