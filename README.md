@@ -10,7 +10,6 @@
 **BitcoinTalk Ann** - https://bitcointalk.org/index.php?topic=5090427.0 <br />
 **Wallet List** - https://github.com/mimblewimble/docs/wiki/Community-projects#wallets <br />
 **Grin 'original' wallet user guide** - https://github.com/mimblewimble/docs/wiki/Wallet-User-Guide <br /> 
-~~**Blockchain explorer** - https://grinscan.net/~~ <br />
 **Grin Explorer:** -  https://github.com/mimblewimble/grin-explorer <br />
 **Grin Explorer Token view** - https://grin.tokenview.com/en <br />
 **Grin scan money** - https://scan.grin.money/chart/block <br />
@@ -34,7 +33,6 @@
 **Shops, Market, Pay with grin**
 ------------------------------------------------------------------------------------------------
 **Grin++ shop** - https://shop.grinplusplus.com/ <br />
- ~~**Slatepack market place:**  - https://slatepacks.com/ - Buy and sell with Grin, have fun.~~ <br />
 **Grinily, apparel, mucks,  Grin goodies pay - with ツ** - https://grinily.com/ <br />
 
 **More Social Media channels**
@@ -74,22 +72,6 @@
 **Grin documentation** - https://docs.grin.mw/ - Learn about the origin of Grin, Mimble Wimble, Pederson commitments, Eliptic Curve cryptography as well as practical tutorials on how to install and use the grin node software and grin-wallet. <br />
 **Ask if you need something**  - Is there anything else you need as aspiring Grin developer or you just have question? Please ask, so we can tailor the Developer content to your needs. Just reach-out on KeyBase. <br />
 
-**Obsolete:**
-------------------------------------------------------------------------------------------------
-**Twitter**: https://twitter.com/grinmw *(Suspended by Twitter)* <br />
-**Gitter** -  https://gitter.im/grin_community/Lobby <br />
-**Linux miner** - https://github.com/mimblewimble/grin-miner <br />
-**Windows miner** - https://github.com/mozkomor/GrinGoldMiner <br />
-**Mining pool** - http://mwgrinpool.com/ <br />
-**Grin 'wallet713' wallet user guide** - https://github.com/vault713/wallet713/blob/master/docs/usage.md <br />
-**GrinGots wizarding bank** - https://github.com/mcdallas/gringotts - (last commits in 2019), Gringotts is a CLI app that you can use to send and receive grins instantly using one of the available backends for communication. <br />
-**How to mine Grin with GGM** - https://www.coingecko.com/buzz/how-to-mine-grin?locale=en <br />
-**Installing and using the core wallet** - https://www.coingecko.com/buzz/how-to-use-grin-wallet-to-send-receive-grin-coins?locale=en *(HTTP is now deprecated)* <br />
-**Installing and Using wallet713** - https://www.coingecko.com/buzz/how-to-use-grin-wallet713-to-send-and-receive-grin-coin-step-by-step-guide?locale=en *(wallet713 is no longer supported)* <br />
-**Mining Grin with Bminer** - https://www.coingecko.com/buzz/how-to-mine-grin-coin-with-bminer-step-by-step-guide?locale=en *(Useful resource but some info are outdated)* <br />
-**Grincoin FAQ by CoinGecko** - https://www.coingecko.com/buzz/grin-frequently-asked-questions?locale=en *(Useful resource but some info are outdated)* <br />
-**Wallet recommendations for newcomers; suggestions welcomed** - https://walletlist.keybase.pub/ *(Useful resource but some info are outdated)* <br />
-
 **Other link outs**
 ------------------------------------------------------------------------------------------------
 
@@ -110,11 +92,30 @@
 **Grin Post Newsletter** - https://grinpost.substack.com/ - Frequent, casual Grin updates. <br />
 **Grin Post Medium** - https://grinpost.medium.com/  Medium articles about Grin. <br />
 
-
 **External articles**
 ------------------------------------------------------------------------------------------------
 
 **Articles on Grin and Mimble Wimble:** Just a few of the many, feel free to add more. <br />
 https://www.blockchainbeach.com/going-deep-on-privacy-mimblewimble/ <br />
 https://smithandcrown.com/research/grin-mimblewimble/ <br />
+
+**Obsolete**
+------------------------------------------------------------------------------------------------
+**Twitter**: https://twitter.com/grinmw *(Suspended by Twitter)* <br />
+**Gitter** -  https://gitter.im/grin_community/Lobby <br />
+**Blockchain explorer** - https://grinscan.net/ <br />
+**Slatepack market place:**  - https://slatepacks.com/ - Buy and sell with Grin, have fun. <br />
+**Linux miner** - https://github.com/mimblewimble/grin-miner <br />
+**Windows miner** - https://github.com/mozkomor/GrinGoldMiner <br />
+**Mining pool** - http://mwgrinpool.com/ <br />
+**Grin 'wallet713' wallet user guide** - https://github.com/vault713/wallet713/blob/master/docs/usage.md <br />
+**GrinGots wizarding bank** - https://github.com/mcdallas/gringotts - (last commits in 2019), Gringotts is a CLI app that you can use to send and receive grins instantly using one of the available backends for communication. <br />
+**How to mine Grin with GGM** - https://www.coingecko.com/buzz/how-to-mine-grin?locale=en <br />
+**Installing and using the core wallet** - https://www.coingecko.com/buzz/how-to-use-grin-wallet-to-send-receive-grin-coins?locale=en *(HTTP is now deprecated)* <br />
+**Installing and Using wallet713** - https://www.coingecko.com/buzz/how-to-use-grin-wallet713-to-send-and-receive-grin-coin-step-by-step-guide?locale=en *(wallet713 is no longer supported)* <br />
+**Mining Grin with Bminer** - https://www.coingecko.com/buzz/how-to-mine-grin-coin-with-bminer-step-by-step-guide?locale=en *(Useful resource but some info are outdated)* <br />
+**Grincoin FAQ by CoinGecko** - https://www.coingecko.com/buzz/grin-frequently-asked-questions?locale=en *(Useful resource but some info are outdated)* <br />
+**Wallet recommendations for newcomers; suggestions welcomed** - https://walletlist.keybase.pub/ *(Useful resource but some info are outdated)* <br />
+
+
 
