@@ -1,10 +1,10 @@
 ﻿**Grin Basics**
 ------------------------------------------------------------------------------------------------
 
-**Main Website** - https://grin.mw/ 
-**Forum** - https://forum.grin.mw/ 
-**Github** - https://github.com/mimblewimble/grin 
-**Grin Community Council site:** - https://grincc.mw/  
+**Main Website** - https://grin.mw/
+**Forum** - https://forum.grin.mw/
+**Github** - https://github.com/mimblewimble/grin
+**Grin Community Council site:** - https://grincc.mw/
 **Grin Community Council Github** - https://github.com/grincc/
 **Grin Hub, links, exchanges, tools, everything** - https://github.com/grincc/hub
 **BitcoinTalk Ann** - https://bitcointalk.org/index.php?topic=5090427.0
@@ -19,7 +19,7 @@
 **List of Exchanges and Miner distributors**
 ------------------------------------------------------------------------------------------------
 **Exchanges & mining pools** - https://github.com/grincc/hub/blob/main/mining-exchanges.md
-**How to mine with G1 Mini:**-  https://forum.grin.mw/t/how-to-mine-grin-with-g1-mini-steps/9796
+**How to mine with G1 Mini:**- https://forum.grin.mw/t/how-to-mine-grin-with-g1-mini-steps/9796
 
 **Grin-Resources:**
 ------------------------------------------------------------------------------------------------
@@ -44,7 +44,7 @@
 **Grin Telegram community** - https://t.me/grinprivacy
 **Grin++ Telegram group** -  https://t.me/GrinPP Grin ++ questions? Ask here.
 **Grin Ironbelly Telegram group**  -https://t.me/ironbelly - IronBelly questions? Ask here.
-**Grinventions Telegram channel:** - https://t.me/grinventions Building MimbleWimble Python implementation 
+**Grinventions Telegram channel:** - https://t.me/grinventions Building MimbleWimble Python implementation
 **MW Fediverere:** -  https://mw.social/timeline/local
 **Grin Reddit** -  https://www.reddit.com/r/GRIN/
 **Grin Reddit (grincoin):** - https://www.reddit.com/r/grincoin/
@@ -82,7 +82,7 @@
 **Windows miner** - https://github.com/mozkomor/GrinGoldMiner
 **Mining pool** - http://mwgrinpool.com/
 **Grin 'wallet713' wallet user guide** - https://github.com/vault713/wallet713/blob/master/docs/usage.md
-**GrinGots wizarding bank** - https://github.com/mcdallas/gringotts -  (last commits in 2019), Gringotts is a CLI app that you can use to send and receive grins instantly using one of the available backends for communication.
+**GrinGots wizarding bank** - https://github.com/mcdallas/gringotts - (last commits in 2019), Gringotts is a CLI app that you can use to send and receive grins instantly using one of the available backends for communication.
 **How to mine Grin with GGM** - https://www.coingecko.com/buzz/how-to-mine-grin?locale=en
 **Installing and using the core wallet** - https://www.coingecko.com/buzz/how-to-use-grin-wallet-to-send-receive-grin-coins?locale=en *(HTTP is now deprecated)*
 **Installing and Using wallet713** - https://www.coingecko.com/buzz/how-to-use-grin-wallet713-to-send-and-receive-grin-coin-step-by-step-guide?locale=en *(wallet713 is no longer supported)*
@@ -95,14 +95,14 @@
 
 **Grinflation:** - https://grinflation.com/ A great website that shows all the economics around Grins's Fair 1   ツ per second supply rate, its inflation, total supply, market cap and price now and in times to come.
 **A Different approach to Grin's inflation supply** - https://madenuzmani.medium.com/a-different-approach-to-grins-inflation-and-supply-355266fc96be
-**Grin art by grinsingularity** - https://github.com/grinsingularity/GrinArt  
+**Grin art by grinsingularity** - https://github.com/grinsingularity/GrinArt
 **Grin link to old mailing list** - https://lists.launchpad.net/mimblewimble/
 **Grin Papyrus:** - https://github.com/Grinnode-live/GRIN-papyrus Collection of important documents and links related to the development of GRIN. Find back everything, the early steps towards Grin in 2016, launch in 2019 and everything that happened after.
 **CryptoProfG** A series of articles shedding light to how grin works. 
   https://medium.com/@CryptoProfG/grin-money-explained-1-greater-than-bitcoin-myths-around-mimblewimble-and-grin-unlocked-adcc166ae864
-  https://medium.com/@CryptoProfG/grin-money-explained-2-money-origins-purpose-and-inflation-4b7c1213ee  
-  https://medium.com/@CryptoProfG/grin-money-explained-3-supply-and-monetary-properties-of-grin-aa753fdb91b8 
-  https://medium.com/@CryptoProfG/grin-money-explained-4-exploring-grins-monetary-model-e48b1761653 
+  https://medium.com/@CryptoProfG/grin-money-explained-2-money-origins-purpose-and-inflation-4b7c1213ee
+  https://medium.com/@CryptoProfG/grin-money-explained-3-supply-and-monetary-properties-of-grin-aa753fdb91b8
+  https://medium.com/@CryptoProfG/grin-money-explained-4-exploring-grins-monetary-model-e48b1761653
 
 **Interview with Ignotus Peverell** -  [link to web-archive 1](https://web.archive.org/web/20210304063138/https://breakermag.com/grin-founder-ignotus-peverell-on-life-after-launch-and-the-path-forward/) - [link to web-archive 2](https://web.archive.org/web/20210304063138/https://breakermag.com/grin-founder-ignotus-peverell-on-life-after-launch-and-the-path-forward/)
 **What is Grin?** - https://github.com/phyro/what-is-grin - Explenation on emission, transaction aggretation and mimble wimble with some nice visuals usefull for presentations, by Phyro.
