@@ -1,9 +1,9 @@
 ﻿**Grin Basics**
 ------------------------------------------------------------------------------------------------
 
-**Main Website** - https://grin.mw/
-**Forum** - https://forum.grin.mw/
-**Github** - https://github.com/mimblewimble/grin
+**Main Website** - https://grin.mw/ <br />
+**Forum** - https://forum.grin.mw/ <br />
+**Github** - https://github.com/mimblewimble/grin <br />
 **Grin Community Council site:** - https://grincc.mw/
 **Grin Community Council Github** - https://github.com/grincc/
 **Grin Hub, links, exchanges, tools, everything** - https://github.com/grincc/hub
