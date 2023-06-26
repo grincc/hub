@@ -114,7 +114,7 @@
 **External articles**
 ------------------------------------------------------------------------------------------------
 
-* **Articles on Grin and Mimble Wimble:** Just a few of the many, feel free to add more. <br />
+**Articles on Grin and Mimble Wimble:** Just a few of the many, feel free to add more. <br />
 https://www.blockchainbeach.com/going-deep-on-privacy-mimblewimble/ <br />
 https://smithandcrown.com/research/grin-mimblewimble/ <br />
 
