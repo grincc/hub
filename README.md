@@ -63,7 +63,7 @@
 ------------------------------------------------------------------------------------------------
 
 ***Your journey down the rabbit hole starts here!*** <br />
-**Step 1, get on Keybase https://keybase.io/team/grincoin, join general and dev channel <br />
+**Step 1**, get on Keybase https://keybase.io/team/grincoin, join general and dev channel <br />
 **Grin main github page** - https://github.com/mimblewimble/grin <br />
 **Help debug and improve node and wallet** - https://github.com/mimblewimble/grin/blob/master/doc/build.md <br />
 **Python wrappers for the Grin node and wallet API** - https://github.com/grinfans/grinmw.py <br />
