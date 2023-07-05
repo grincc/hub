@@ -114,12 +114,12 @@ https://smithandcrown.com/research/grin-mimblewimble/ <br />
 **How to mine Grin with GGM** - https://www.coingecko.com/buzz/how-to-mine-grin?locale=en <br />
 **Installing and using the core wallet** - https://www.coingecko.com/buzz/how-to-use-grin-wallet-to-send-receive-grin-coins?locale=en *(HTTP is now deprecated)* <br />
 **Installing and Using wallet713** - https://www.coingecko.com/buzz/how-to-use-grin-wallet713-to-send-and-receive-grin-coin-step-by-step-guide?locale=en *(wallet713 is no longer supported)* <br />
+**Grinbox, vault713** - https://github.com/vault713/grinbox - Once upon a time there was easy to use Grinbox, but ya.. it was kind of less private <br />
 **Mining Grin with Bminer** - https://www.coingecko.com/buzz/how-to-mine-grin-coin-with-bminer-step-by-step-guide?locale=en *(Useful resource but some info are outdated)* <br />
 **Grincoin FAQ by CoinGecko** - https://www.coingecko.com/buzz/grin-frequently-asked-questions?locale=en *(Useful resource but some info are outdated)* <br />
 **Wallet recommendations for newcomers; suggestions welcomed** - https://walletlist.keybase.pub/ *(Useful resource but some info are outdated)* <br />
-**Grinbox, vault713** - https://github.com/vault713/grinbox - Once upon a time there was easy to use Grinbox, but ya.. it was kind of less private <br />
 **Niffler wallet** - https://github.com/grinfans/Niffler (can still be used with older https version of grin) <br />
-**Iron Belly wallet** -  https://github.com/i1skn/ironbelly - iOS Android, lightweight mobile wallet, React-Native for the UI and official Grin source code written in Rust <br />
+**Iron Belly wallet** -  https://github.com/i1skn/ironbelly - Not obsolete, iOS Android, lightweight mobile wallet, React-Native for the UI and official Grin source code written in Rust <br />
 
 
 
