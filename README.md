@@ -79,6 +79,7 @@
 **Grinflation:** - https://grinflation.com/ A great website that shows all the economics around Grins's Fair 1   ツ per second supply rate, its inflation, total supply, market cap and price now and in times to come. <br />
 **A Different approach to Grin's inflation supply** - https://madenuzmani.medium.com/a-different-approach-to-grins-inflation-and-supply-355266fc96be <br />
 **Grin art by grinsingularity** - https://github.com/grinsingularity/GrinArt <br />
+**Some Grin art by Grincy** - https://github.com/TomMualler/Grinchy-Grin <br />
 **Grin link to old mailing list** - https://lists.launchpad.net/mimblewimble/ <br />
 **Grin Papyrus:** - https://github.com/Grinnode-live/GRIN-papyrus Collection of important documents and links related to the development of GRIN. Find back everything, the early steps towards Grin in 2016, launch in 2019 and everything that happened after. <br />
 **CryptoProfG** A series of articles shedding light to how grin works.  <br />
@@ -120,6 +121,8 @@ https://smithandcrown.com/research/grin-mimblewimble/ <br />
 **Wallet recommendations for newcomers; suggestions welcomed** - https://walletlist.keybase.pub/ *(Useful resource but some info are outdated)* <br />
 **Niffler wallet** - https://github.com/grinfans/Niffler (can still be used with older https version of grin) <br />
 **Iron Belly wallet** -  https://github.com/i1skn/ironbelly - Not obsolete, iOS Android, lightweight mobile wallet, React-Native for the UI and official Grin source code written in Rust <br />
+
+
 
 
 
