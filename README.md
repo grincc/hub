@@ -54,7 +54,8 @@
 
 **GrinVention** - https://github.com/grinventions/ - Python implementation for mimblewimble under construction <br />
 **Grin Mail** - https://github.com/aixinrock/grinmail/blob/main/README-en.md - Automatically send and receive transactions via email (last commit 05-07-2021). <br />
- **Testnet exchange** - https://github.com/pkariz/grin-wallet/tree/fix/invoice-issues - Template solution for exchanges <br />
+**Grin Bot** = https://github.com/alexbyrnes/grinbot - Grin bot written in Rust for Telegram en Keybase, well documented (last commit Jan 12, 2020) <br />
+**Testnet exchange** - https://github.com/pkariz/grin-wallet/tree/fix/invoice-issues - Template solution for exchanges <br />
 **GrinGots wizarding bank** - https://github.com/mcdallas/gringotts  & https://github.com/mcdallas/gringotts-rust (last commits in 2019), Gringotts is a CLI app that you can use to send and receive grins instantly using one of the available back-ends for communication. <br />
 **Grin vanity address generator** -  https://github.com/MakisChristou/grin-vanity - Slatepack vanity address generator written in Rust <br />
 **Grin payment calculation, node mapping & more** -  https://github.com/grincc/hub/tree/main/scripts <br />
@@ -99,7 +100,7 @@
 https://www.blockchainbeach.com/going-deep-on-privacy-mimblewimble/ <br />
 https://smithandcrown.com/research/grin-mimblewimble/ <br />
 
-**Obsolete**
+**More & Obsolete**
 ------------------------------------------------------------------------------------------------
 **Twitter**: https://twitter.com/grinmw *(Suspended by Twitter)* <br />
 **Gitter** -  https://gitter.im/grin_community/Lobby <br />
@@ -116,6 +117,9 @@ https://smithandcrown.com/research/grin-mimblewimble/ <br />
 **Mining Grin with Bminer** - https://www.coingecko.com/buzz/how-to-mine-grin-coin-with-bminer-step-by-step-guide?locale=en *(Useful resource but some info are outdated)* <br />
 **Grincoin FAQ by CoinGecko** - https://www.coingecko.com/buzz/grin-frequently-asked-questions?locale=en *(Useful resource but some info are outdated)* <br />
 **Wallet recommendations for newcomers; suggestions welcomed** - https://walletlist.keybase.pub/ *(Useful resource but some info are outdated)* <br />
+**Grinbox, vault713** - https://github.com/vault713/grinbox - Once upon a time there was easy to use Grinbox, but ya.. it was kind of less private <br />
+**Niffler wallet** - https://github.com/grinfans/Niffler (can still be used with older https version of grin) <br />
+**Iron Belly wallet** -  https://github.com/i1skn/ironbelly - iOS Android, lightweight mobile wallet, React-Native for the UI and official Grin source code written in Rust <br />
 
 
 
