@@ -46,7 +46,7 @@ https://github.com/mimblewimble/mwixnet/issues/11
   *-No specific changes as far as I know, or are these part of the changes to grin-wallet*
 8. anchors*
 9. bulletproofs+*
-  *Not deemed safe/well tested enough , or was that bulletproofs++*
+  *-Not deemed safe/well tested enough , or was that bulletproofs++*
 10. NRD activation*
 11. [Display slatepacks as QR codes in CLI
-  *Implemented*
+  *-Implemented*
