@@ -56,6 +56,7 @@
 ------------------------------------------------------------------------------------------------
 
 **GrinVention** - https://github.com/grinventions/ - Python implementation for mimblewimble under construction <br />
+**AwesomeGrin** - https://github.com/quentinlesceller/awesome-gri - A curated list of Grin services, softwares and tools. including Testnet faucet!
 **Grin Mail** - https://github.com/aixinrock/grinmail/blob/main/README-en.md - Automatically send and receive transactions via email (last commit 05-07-2021). <br />
 **Grin Bot** = https://github.com/alexbyrnes/grinbot - Grin bot written in Rust for Telegram en Keybase, well documented (last commit Jan 12, 2020) <br />
 **Testnet exchange** - https://github.com/pkariz/grin-wallet/tree/fix/invoice-issues - Template solution for exchanges <br />
