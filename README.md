@@ -87,7 +87,7 @@ ob/main/README-en.md - Automatically send and receive transactions via email (la
 **Some Grin art by Grincy** - https://github.com/TomMualler/Grinchy-Grin <br />
 **Grin link to old mailing list** - https://lists.launchpad.net/mimblewimble/ <br />
 **Grin Papyrus:** - https://github.com/Grinnode-live/GRIN-papyrus Collection of important documents and links related to the development of GRIN. Find back everything, the early steps towards Grin in 2016, launch in 2019 and everything that happened after. <br />
-**CryptoProfG** A series of articles shedding light to how grin works.  <br />
+**CryptoProfG** A series of articles shedding light on how grin works.  <br />
   https://medium.com/@CryptoProfG/grin-money-explained-1-greater-than-bitcoin-myths-around-mimblewimble-and-grin-unlocked-adcc166ae864 <br />
   https://medium.com/@CryptoProfG/grin-money-explained-2-money-origins-purpose-and-inflation-4b7c1213ee <br />
   https://medium.com/@CryptoProfG/grin-money-explained-3-supply-and-monetary-properties-of-grin-aa753fdb91b8 <br />
