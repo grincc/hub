@@ -18,10 +18,10 @@
 3. [testnet exchange/ making it easier for exchange integrations](https://github.com/stakervali/grin-wishlist/issues/4)
  *-Implemented - [Link]([url](https://github.com/pkariz/grin-wallet/tree/fix/invoice-issues))*
 4. payjoins*
-  *-Not really payjoin, but [Coin Swap, MWIXnet]([url](https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149)) is nearly implemented, see aggregator*
+  *-Not really payjoin, but [Coin Swap, mwixnet]([url](https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149)) is nearly implemented, see aggregator*
 5. [binaries for older systems, older GLIBC or build on low RAM machine < 300MB]()
 7. [invoice payment proofs*](https://github.com/stakervali/grin-wishlist/issues/10)
-    *-Implemented in the grin GUI wallet, part of unified payment proof*
+    *-Implemented in the grin GUI wallet, part of unified payment proofs*
 8. hardware wallets*
   *-Implemented [Tutorial]([url](https://www.youtube.com/playlist?list=PLb1nuT3sFYbD_sydCVCngbvATsm9RwWyF), [Download the code here]([url](https://github.com/NicolasFlamel1/ledger-live/releases)))* 
 
@@ -37,7 +37,7 @@
   https://forum.grin.mw/t/questions-about-the-state-of-the-atomic-swap-pr-and-introduction/10332
   https://github.com/mimblewimble/grin-rfcs/pull/83
 5. aggregators
-  *-mw-mixnet/CoinSwap, third stage under review with two open issues out of 9 issues*
+  *-mwixnet/CoinSwap, third stage under review with two open issues out of 9 issues*
 https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149**
 https://github.com/mimblewimble/mwixnet/issues/11
 6. block archive node support*
