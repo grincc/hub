@@ -43,10 +43,10 @@ https://github.com/mimblewimble/mwixnet/issues/11
 6. block archive node support*
    *-Implemented, fast sync method could still be added in the future*
 7. [improve compatibility with OSX](https://github.com/stakervali/grin-wishlist/issues/3)
-  *-No specific changes as far as I know, or are these part of the changes to grin-wallet*
+  *-No specific changes as far as I know, or are these part of the many changes to grin-wallet*
 8. anchors*
 9. bulletproofs+*
-  *-Not deemed safe/well tested enough , or was that bulletproofs++*
+  *-[Not deemed safe/well tested enough yet in 2020](keybase://chat/grincoin#dev/5873), perhaps now they are? 
 10. NRD activation*
 11. [Display slatepacks as QR codes in CLI
   *-Implemented*
