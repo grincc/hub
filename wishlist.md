@@ -21,7 +21,7 @@
   *-Not really payjoin, but [Coin Swap, mwixnet]([url](https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149)) is nearly implemented, see aggregator*
 5. [binaries for older systems, older GLIBC or build on low RAM machine < 300MB]()
 7. [invoice payment proofs*](https://github.com/stakervali/grin-wishlist/issues/10)
-    *-Implemented in the under development [grin GUI wallet]([url](https://github.com/mimblewimble/grin-gui)), part of unified/[biderection payment proofs]([url](https://phyro.github.io/grinvestigation/bidirectional_paymentproofs.html))*
+    *-Implemented in the under contract flow branch [grin GUI wallet]([url](https://github.com/mimblewimble/grin-wallet/pull/681)), part of unified/[biderection payment proofs]([url](https://phyro.github.io/grinvestigation/bidirectional_paymentproofs.html))*
 8. hardware wallets*
   *-Leger HW support for Grin is implemented. [Tutorial]([url](https://www.youtube.com/playlist?list=PLb1nuT3sFYbD_sydCVCngbvATsm9RwWyF), [Download the code here]([url](https://github.com/NicolasFlamel1/ledger-live/releases)))* 
 
