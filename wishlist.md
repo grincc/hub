@@ -16,7 +16,7 @@
 1. Tor support for nodes*
 2. [light node*](https://github.com/stakervali/grin-wishlist/issues/7)
 3. [testnet exchange/ making it easier for exchange integrations](https://github.com/stakervali/grin-wishlist/issues/4)
- *-Implemented - [Link]([url](https://github.com/pkariz/grin-wallet/tree/fix/invoice-issues](https://github.com/pkariz/grin-testnet-exchange))*
+ *-Implemented - [Link]([url](https://github.com/stakervali/grin-wishlist/issues/4))*
 4. payjoins*
   *-Not really payjoin, but [Coin Swap, mwixnet]([url](https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149)) is nearly implemented, see aggregator*
 5. [binaries for older systems, older GLIBC or build on low RAM machine < 300MB]()
