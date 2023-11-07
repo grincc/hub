@@ -1,29 +1,29 @@
 ## Criticals / Must Have
 
 1. [PIBD - (faster and more robust syncing strategy)](https://github.com/stakervali/grin-wishlist/issues/6)
-  *-In beta and being tested on mainnet*
+  *-In beta, being tested on mainnet*
 2. [multi-sig*](https://github.com/stakervali/grin-wishlist/issues/2)
-  *-Is not happening any time soon if I understand correctly, since there is no solution yet to generate threshold range proofs:*
+  *-Not happening any time soon if I understand correctly, since there is no solution yet to generate threshold range proofs:*
 3. Wallet backend improvements
-  *- Wallet had many bug fixes and stability improvements, are those what are referred to?*
+  *- Grin-wallet had many bug fixes and stability improvements*
 4. libsecp fork update 
-   *-not updated, last commit to was 5 years ago*
+   *-not updated, last commit to libsecp was 5 years ago*
 5. safe cancel*
-*WIP, not merged https://github.com/mimblewimble/grin-rfcs/pull/71, part of Grin GUI?*
+   *WIP, not merged https://github.com/mimblewimble/grin-rfcs/pull/71, part of Grin GUI?*
 
 ## Important
 
 1. Tor support for nodes*
 2. [light node*](https://github.com/stakervali/grin-wishlist/issues/7)
 3. [testnet exchange/ making it easier for exchange integrations](https://github.com/stakervali/grin-wishlist/issues/4)
- *-Implemented - [Link](https://github.com/pkariz/grin-wallet/tree/fix/invoice-issues)*
+ *-Implemented - [Link]([https://github.com/pkariz/grin-wallet/tree/fix/invoice-issues](https://github.com/pkariz/grin-testnet-exchange))*
 4. payjoins*
   *-Not really payjoin, but [Coin Swap, mwixnet]([url](https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149)) is nearly implemented, see aggregator*
 5. [binaries for older systems, older GLIBC or build on low RAM machine < 300MB]()
 7. [invoice payment proofs*](https://github.com/stakervali/grin-wishlist/issues/10)
-    *-Implemented in the grin GUI wallet, part of unified payment proofs*
+    *-Implemented in the under development [grin GUI wallet]([url](https://github.com/mimblewimble/grin-gui)), part of unified/[biderection payment proofs]([url](https://phyro.github.io/grinvestigation/bidirectional_paymentproofs.html))*
 8. hardware wallets*
-  *-Implemented [Tutorial]([url](https://www.youtube.com/playlist?list=PLb1nuT3sFYbD_sydCVCngbvATsm9RwWyF), [Download the code here]([url](https://github.com/NicolasFlamel1/ledger-live/releases)))* 
+  *-Leger HW support for Grin is implemented. [Tutorial]([url](https://www.youtube.com/playlist?list=PLb1nuT3sFYbD_sydCVCngbvATsm9RwWyF), [Download the code here]([url](https://github.com/NicolasFlamel1/ledger-live/releases)))* 
 
 ## Fix if time / Nice to Have
 
@@ -46,7 +46,8 @@ https://github.com/mimblewimble/mwixnet/issues/11
   *-No specific changes as far as I know, or are these part of the many changes to grin-wallet*
 8. anchors*
 9. bulletproofs+*
-  *-[Not deemed safe/well tested enough yet in 2020](keybase://chat/grincoin#dev/5873), perhaps now they are? 
+  *-[Not deemed safe/well tested enough yet in 2020](keybase://chat/grincoin#dev/5873), 
+  *-Had a [positive review]([url](https://tari.substack.com/p/taris-bulletproofs-audit-is-done)) in Tari, (see [full report]([url](https://github.com/tari-project/bulletproofs-plus/blob/main/docs/quarkslab-audit/report.pdf)https://github.com/tari-project/bulletproofs-plus/blob/main/docs/quarkslab-audit/report.pdf)). 
 10. NRD activation*
 11. [Display slatepacks as QR codes in CLI
   *-Implemented*
