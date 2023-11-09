@@ -127,6 +127,7 @@ https://smithandcrown.com/research/grin-mimblewimble/ <br />
 **Wallet recommendations for newcomers; suggestions welcomed** - https://walletlist.keybase.pub/ *(Useful resource but some info are outdated)* <br />
 **Niffler wallet** - https://github.com/grinfans/Niffler (can still be used with older https version of grin) <br />
 **Iron Belly wallet** -  https://github.com/i1skn/ironbelly - Not obsolete, iOS Android, lightweight mobile wallet, React-Native for the UI and official Grin source code written in Rust <br />
+**Grin Floonet faucet from 2018** - https://github.com/visvirial/grin-faucet <br />
 
 
 
