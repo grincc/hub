@@ -28,16 +28,24 @@
 
 [Gateio](https://www.gateio.pro/trade/GRIN_USDT)
 - KYC
-- Deposit/Withdraw (using memo system)
+- Deposit/Withdraw (using Memo code )
 - TOR Method ***
 - Not available for EU Citizens
+
+[CoinW](https://www.coinw.com/frontSpot/spottrade?symbol=702)
+
+-KYC
+- Deposit/ Withdrawal ( using Memo code)
+- TOR Method ***
+
+
 
  
  
 [Bitforex](https://www.bitforex.com/en/spot/grin_usdt)
 - KYC
 - Withdrawal supported.
-- https old method*
+- https old method* (Grin ++ / Ironbelly dont support https method)
 
  
 [Bisq](https://bisq.network/) 
