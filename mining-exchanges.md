@@ -34,7 +34,7 @@
 
 [CoinW](https://www.coinw.com/frontSpot/spottrade?symbol=702)
 
--KYC
+- KYC
 - Deposit/ Withdrawal ( using Memo code)
 - TOR Method ***
 
