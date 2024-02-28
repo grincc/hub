@@ -38,14 +38,7 @@
 - Deposit/ Withdrawal ( using Memo code)
 - TOR Method ***
 
-
-
  
- 
-[Bitforex](https://www.bitforex.com/en/spot/grin_usdt)
-- KYC
-- Withdrawal supported.
-- https old method* (Grin ++ / Ironbelly dont support https method)
 
  
 [Bisq](https://bisq.network/) 
