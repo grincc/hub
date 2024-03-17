@@ -27,27 +27,28 @@
 
 ## Fix if time / Nice to Have
 
-1. wallet view key*
-2. [one-time use slatepack addresses for wallet*](https://github.com/stakervali/grin-wishlist/issues/11)
+1. [wallet view key]([url](https://forum.grin.mw/t/looking-for-a-tutorial-of-grin-wallet-cli-view-wallet-function-rewind-hash-and-scan-rewind-hash-150-grin-bounty/9444/11?u=anynomous))
+   *-Implemented in grin-wallet, not yet in Grin++*
+3. [one-time use slatepack addresses for wallet*](https://github.com/stakervali/grin-wishlist/issues/11)
   *-Generate new slatepack address is implemented in Grin++, not yet in grin-wallet*
-3. flyclient*
+4. flyclient*
    *-Nothing implemented, would require header history or inclusion proof according to discussions on KeyBase*
-4. [atomic swaps*](https://github.com/stakervali/grin-wishlist/issues/1)
+5. [atomic swaps*](https://github.com/stakervali/grin-wishlist/issues/1)
   *-Gene made a first implementation of "non-ideal" atomic swap, grin reaper offered to continue implementation, nothing fixed yet.*
   https://forum.grin.mw/t/questions-about-the-state-of-the-atomic-swap-pr-and-introduction/10332
   https://github.com/mimblewimble/grin-rfcs/pull/83
-5. aggregators
+6. aggregators
   *-mwixnet/CoinSwap, third stage under review with two open issues out of 9 issues*
 https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149**
 https://github.com/mimblewimble/mwixnet/issues/11
-6. block archive node support*
+7. block archive node support*
    *-Implemented, fast sync method could still be added in the future*
-7. [improve compatibility with OSX](https://github.com/stakervali/grin-wishlist/issues/3)
+8. [improve compatibility with OSX](https://github.com/stakervali/grin-wishlist/issues/3)
   *-No specific changes as far as I know, or are these part of the many changes to grin-wallet*
-8. anchors*
-9. bulletproofs+*
+9. anchors*
+10. bulletproofs+*
   *-[Not deemed safe/well tested enough yet in 2020](keybase://chat/grincoin#dev/5873), 
   *-Had a [positive review]([url](https://tari.substack.com/p/taris-bulletproofs-audit-is-done)) in Tari, (see [full report]([url](https://github.com/tari-project/bulletproofs-plus/blob/main/docs/quarkslab-audit/report.pdf)https://github.com/tari-project/bulletproofs-plus/blob/main/docs/quarkslab-audit/report.pdf)). 
-10. NRD activation*
-11. [Display slatepacks as QR codes in CLI
+11. NRD activation*
+12. [Display slatepacks as QR codes in CLI
   *-Implemented*
