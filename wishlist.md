@@ -3,7 +3,7 @@
 1. [PIBD - (faster and more robust syncing strategy)](https://github.com/stakervali/grin-wishlist/issues/6)
   *-In beta, being tested on mainnet*
 2. [multi-sig*](https://github.com/stakervali/grin-wishlist/issues/2)
-  *-Not happening any time soon if I understand correctly, since there is no solution yet to generate threshold range proofs:*
+  *-Requires building and signing in reverse order, not happening any time soon due to complexity with payment proofs, but perhapps multisig with HW is ok since it is strictly two parties involved:*
 3. Wallet backend improvements
   *- Grin-wallet had many bug fixes and stability improvements*
 4. libsecp fork update 
