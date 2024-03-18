@@ -27,7 +27,7 @@
 
 ## Fix if time / Nice to Have
 
-1. [wallet view key]([url](https://forum.grin.mw/t/looking-for-a-tutorial-of-grin-wallet-cli-view-wallet-function-rewind-hash-and-scan-rewind-hash-150-grin-bounty/9444/11?u=anynomous))
+1. [wallet view key*](https://forum.grin.mw/t/looking-for-a-tutorial-of-grin-wallet-cli-view-wallet-function-rewind-hash-and-scan-rewind-hash-150-grin-bounty/9444/11)
    *-Implemented in grin-wallet, not yet in Grin++*
 3. [one-time use slatepack addresses for wallet*](https://github.com/stakervali/grin-wishlist/issues/11)
   *-Generate new slatepack address is implemented in Grin++, not yet in grin-wallet*
