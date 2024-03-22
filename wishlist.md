@@ -9,7 +9,7 @@
 4. libsecp fork update 
    *-not updated, last commit to libsecp was 5 years ago*
 5. safe cancel*
-   *WIP, not merged https://github.com/mimblewimble/grin-rfcs/pull/71, part of Grin GUI?*
+   *WIP, not merged yet in the stable release https://github.com/mimblewimble/grin-rfcs/pull/71, will be part of Grin GUI and new grin-wallet stable release*
 
 ## Important
 
@@ -28,7 +28,7 @@
 ## Fix if time / Nice to Have
 
 1. [wallet view key*](https://forum.grin.mw/t/looking-for-a-tutorial-of-grin-wallet-cli-view-wallet-function-rewind-hash-and-scan-rewind-hash-150-grin-bounty/9444/11)
-   *-Implemented in grin-wallet, not yet in Grin++*
+   *-Implemented in grin-wallet 5.2 beta, not implemented in 5.0.3 stable release and not yet implemented in Grin++**
 3. [one-time use slatepack addresses for wallet*](https://github.com/stakervali/grin-wishlist/issues/11)
   *-Generate new slatepack address is implemented in Grin++, not yet in grin-wallet*
 4. flyclient*
