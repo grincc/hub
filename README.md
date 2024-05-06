@@ -11,7 +11,7 @@
 **Wallet List** - https://github.com/mimblewimble/docs/wiki/Community-projects#wallets <br />
 **Grin 'original' wallet user guide** - https://github.com/mimblewimble/docs/wiki/Wallet-User-Guide <br /> 
 **Grin Explorer:** -  https://github.com/mimblewimble/grin-explorer <br />
-**Grincoin Explorer:** - https://grincoin.org/ <br />
+**Grincoin Explorer:** - https://grincoin.org/ [[github]([url](https://github.com/aglkm/grin-explorer))]<br />
 **Grin block explorer2** - http://107.175.127.117/mainnet/blocks <br />
 **Grin Explorer Token view** - https://grin.tokenview.com/en <br />
 **Grin scan money** - https://scan.grin.money/chart/block <br />
