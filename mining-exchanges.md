@@ -7,7 +7,7 @@
 - [gaeapool](  https://gaeapool.com/#/    )
 - [Grinmint]( https://grinmint.com/   )
 - [2Miners SOLO](https://solo-grin.2miners.com/ )
-- [HeroMiners](https://grin.herominers.com/ ) 
+- ~~[HeroMiners](https://grin.herominers.com/ )~~ 
 - [EasyGrin](https://pool.easygrin.org/ )
 - [Easy Grin SOLO](https://solo.easygrin.org/ ) 
 
