@@ -9,6 +9,7 @@
 **Grin Hub, links, exchanges, tools, everything** - https://github.com/grincc/hub <br />
 **BitcoinTalk Ann** - https://bitcointalk.org/index.php?topic=5090427.0 <br />
 **Wallet List** - https://github.com/mimblewimble/docs/wiki/Community-projects#wallets <br />
+**GRIM wallet** - https://getgrin.github.io/  <br />
 **Grin 'original' wallet user guide** - https://github.com/mimblewimble/docs/wiki/Wallet-User-Guide <br /> 
 **Grin Explorer:** -  https://github.com/mimblewimble/grin-explorer <br />
 **Grincoin Explorer:** - https://grincoin.org/  [[github](https://github.com/aglkm/grin-explorer)] <br />
@@ -46,6 +47,7 @@
 **KeyBase - Goverance and technical discussions:** - https://keybase.io/team/grincoin <br />
 **Grin Telegram community** - https://t.me/grinprivacy <br />
 **Grin++ Telegram group** -  https://t.me/GrinPP Grin ++ questions? Ask here. <br />
+**GRIM WALLET Telegram group** -  https://t.me/grim_app  <br />
 **Grin Ironbelly Telegram group**  -https://t.me/ironbelly - IronBelly questions? Ask here. <br />
 **Grinventions Telegram channel:** - https://t.me/grinventions Building MimbleWimble Python implementation <br />
 **MW Fediverere:** -  https://mw.social/timeline/local <br />
