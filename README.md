@@ -22,6 +22,8 @@
 ------------------------------------------------------------------------------------------------
 **Exchanges & mining pools** - https://github.com/grincc/hub/blob/main/mining-exchanges.md <br />
 **How to mine with G1 Mini:**- https://forum.grin.mw/t/how-to-mine-grin-with-g1-mini-steps/9796 <br />
+**SOLO Mining Private Pool Guide:** - https://forum.grin.mw/t/solo-mining-private-pool-guide/10462 <br />
+
 
 **Grin-Resources:**
 ------------------------------------------------------------------------------------------------
