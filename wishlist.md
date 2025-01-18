@@ -3,7 +3,7 @@
 1. [PIBD - (faster and more robust syncing strategy)](https://github.com/stakervali/grin-wishlist/issues/6)
   *-In beta, being tested on mainnet*
 2. [multi-sig*](https://github.com/stakervali/grin-wishlist/issues/2)
-  *-Requires building and signing in reverse order, not happening any time soon due to complexity with payment proofs, but perhapps multisig with HW is ok since it is strictly two parties involved:*
+  *-Requires building and signing in reverse order, not happening any time soon due to complexity with payment proofs, but perhaps multisig with HW is ok since it is strictly two parties involved:*
 3. Wallet backend improvements
   *- Grin-wallet had many bug fixes and stability improvements*
 4. libsecp fork update 
@@ -18,12 +18,12 @@
 3. [testnet exchange/ making it easier for exchange integrations](https://github.com/stakervali/grin-wishlist/issues/4)
  *-Implemented - [Link]([url](https://github.com/stakervali/grin-wishlist/issues/4))*
 4. payjoins*
-  *-Not really payjoin, but [Coin Swap, mwixnet]([url](https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149)) is nearly implemented, see aggregator*
+  *-Implemented in the contract branch and in grin GUI when you enable contract flow*
 5. [binaries for older systems, older GLIBC or build on low RAM machine < 300MB]()
 7. [invoice payment proofs*](https://github.com/stakervali/grin-wishlist/issues/10)
-    *-Implemented in the under contract flow branch [grin GUI wallet]([url](https://github.com/mimblewimble/grin-wallet/pull/681)), part of unified/[biderection payment proofs]([url](https://phyro.github.io/grinvestigation/bidirectional_paymentproofs.html))*
+    *-Implemented in contract flow branch [grin GUI wallet]([url](https://github.com/mimblewimble/grin-wallet/pull/681)), part of unified/[biderection payment proofs]([url](https://phyro.github.io/grinvestigation/bidirectional_paymentproofs.html))*
 8. hardware wallets*
-  *-Leger HW support for Grin is implemented. [Tutorial]([url](https://www.youtube.com/playlist?list=PLb1nuT3sFYbD_sydCVCngbvATsm9RwWyF), [Download the code here]([url](https://github.com/NicolasFlamel1/ledger-live/releases)))* 
+  *-Leger HW support for Grin is implemented, but unofficial since a formal review by Ledger costs money. [Tutorial]([url](https://www.youtube.com/playlist?list=PLb1nuT3sFYbD_sydCVCngbvATsm9RwWyF), [Download the code here]([url](https://github.com/NicolasFlamel1/ledger-live/releases)))* 
 
 ## Fix if time / Nice to Have
 
@@ -38,9 +38,8 @@
   https://forum.grin.mw/t/questions-about-the-state-of-the-atomic-swap-pr-and-introduction/10332
   https://github.com/mimblewimble/grin-rfcs/pull/83
 6. aggregators
-  *-mwixnet/CoinSwap, third stage under review with two open issues out of 9 issues*
-https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149**
-https://github.com/mimblewimble/mwixnet/issues/11
+  *-mwixnet/CoinSwap, finished, testing on its way for integration in grin-wallet + plans from Ardocrat to work on integration in Grim*
+[https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149**](https://forum.grin.mw/t/mwixnet-community-test/11405/19)
 7. block archive node support*
    *-Implemented, fast sync method could still be added in the future*
 8. [improve compatibility with OSX](https://github.com/stakervali/grin-wishlist/issues/3)
