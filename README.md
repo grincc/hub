@@ -9,7 +9,7 @@
 **Grin Hub, links, exchanges, tools, everything** - https://github.com/grincc/hub <br />
 **BitcoinTalk Ann** - https://bitcointalk.org/index.php?topic=5090427.0 <br />
 **Wallet List** - https://github.com/mimblewimble/docs/wiki/Community-projects#wallets <br />
-**GRIM GUI wallet** - https://getgrin.github.io/  <br />
+**GRIM GUI wallet** - https://gri.mw/  <br />
 **Grin 'original' wallet user guide** - https://github.com/mimblewimble/docs/wiki/Wallet-User-Guide <br /> 
 **Grin Explorer:** -  https://github.com/mimblewimble/grin-explorer <br />
 **Grincoin Explorer:** - https://grincoin.org/  [[github](https://github.com/aglkm/grin-explorer)] <br />
