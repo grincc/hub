@@ -30,13 +30,7 @@
 - KYC
 - Deposit/Withdraw (using Memo code )
 - TOR Method ***
-- Not available for EU Citizens
-
-[CoinW](https://www.coinw.com/frontSpot/spottrade?symbol=702)
-
-- KYC
-- Deposit/ Withdrawal ( using Memo code)
-- TOR Method ***
+- Not available for EU/USA Citizens
 
  
 
@@ -47,12 +41,7 @@
 - BTC-Grin trading-pair
     - BTC collateral equivalent to asking price when selling Grin
   
-[100x APP](https://100x.app/)
-- No KYC, peer to peer. While in beta requires whitelisting on Discord
-- Escrow, Stable coin intermdiate
-- In beta, use at own Risk
-- Buy using Paypal, Venmo zelle
-- Actively promotes using Grin as cash
+
 
 
 
@@ -64,4 +53,4 @@
 Disclaimer: Exchange and pool infos are taken from Grin users & community feedback, **not an endorsement.** Always do your research.
 
  
-<i>**Last updated: 2024-02-26**</i> 
+<i>**Last updated: 2025-01-28**</i> 
