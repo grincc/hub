@@ -110,6 +110,7 @@ ob/main/README-en.md - Automatically send and receive transactions via email (la
 ------------------------------------------------------------------------------------------------
 
 **Articles on Grin and Mimble Wimble:** Just a few of the many, feel free to add more. <br />
+https://ggmesh.medium.com/the-wizard-and-marvelous-dr-maxwell-77a84dc51097  
 https://www.blockchainbeach.com/going-deep-on-privacy-mimblewimble/ <br />
 https://smithandcrown.com/research/grin-mimblewimble/ <br />
 
