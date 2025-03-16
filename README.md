@@ -48,6 +48,7 @@
 
 **KeyBase - Goverance and technical discussions:** - https://keybase.io/team/grincoin <br />
 **Grin Telegram community** - https://t.me/grinprivacy <br />
+**Grin community SimpleX server** - smp://O4SFdESc4kURMNYKc5uDS06p2oCyxIf8lpjtz1zco2g=@grinchat.mw <br />
 **Grin++ Telegram group** -  https://t.me/GrinPP Grin ++ questions? Ask here. <br />
 **GRIM WALLET Telegram group** -  https://t.me/grim_app  <br />
 **Grin Ironbelly Telegram group**  -https://t.me/ironbelly - IronBelly questions? Ask here. <br />
@@ -89,6 +90,7 @@ ob/main/README-en.md - Automatically send and receive transactions via email (la
 ------------------------------------------------------------------------------------------------
 
 **Grinflation:** - https://grinflation.com/ A great website that shows all the economics around Grins's Fair 1   ツ per second supply rate, its inflation, total supply, market cap and price now and in times to come. <br />
+**Grinminer.net:** - https://grinminer.net Resources and VPS hosting services for miners needing a node or stratum server, provides firmware downloads, a Trezor/Ledger compaible wallet, and hosted nodes. <br />
 **A Different approach to Grin's inflation supply** - https://madenuzmani.medium.com/a-different-approach-to-grins-inflation-and-supply-355266fc96be <br />
 **Grin art by grinsingularity** - https://github.com/grinsingularity/GrinArt <br />
 **Some Grin art by Grincy** - https://github.com/TomMualler/Grinchy-Grin <br />
