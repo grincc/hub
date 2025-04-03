@@ -28,7 +28,8 @@
 **Grin-Resources:**
 ------------------------------------------------------------------------------------------------
 
-**Introduction to Grin** - https://github.com/mimblewimble/grin/blob/master/doc/intro.md <br />
+**Introduction to Grin** - https://github.com/mimblewimble/grin/blob/master/doc/intro.md <br />  
+**Tutorial to setup a wallet and link to your node** - https://github.com/aglkm/grin-wallet-tutorial
 **Cuck(at)oo Cycle** - https://github.com/tromp/cuckoo <br />
 **What is Grin** - https://phyro.github.io/what-is-grin/mimblewimble.html <br />
 **Why Grin** - https://gist.github.com/phyro/ec37d8bfedd36102b0ea5824580d06e4 <br />
