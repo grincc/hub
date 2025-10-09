@@ -10,22 +10,22 @@
 5. libsecp fork update 
    *- not updated, last commit to libsecp was 5 years ago*
 6. safe cancel (cancel by self spend)
-   *WIP, part of contract branch [Testing needed]*
+   *WIP, Done but p [Testing needed]*
 
 ## Important
 
 1. Tor support for nodes*
 2. [light node*](https://github.com/stakervali/grin-wishlist/issues/7)
 3. [testnet exchange/ making it easier for exchange integrations](https://github.com/stakervali/grin-wishlist/issues/4)
- *-Done, Implemented - [Link]([url](https://github.com/stakervali/grin-wishlist/issues/4))*
+ *- Done, Implemented - [Link]([url](https://github.com/stakervali/grin-wishlist/issues/4))*
 4. payjoins
   *- Implemented in the contract branch and in grin GUI when you enable contract flow*
 5. [binaries for older systems, older GLIBC or build on low RAM machine < 300MB]()
 7. [invoice payment proofs*](https://github.com/stakervali/grin-wishlist/issues/10)
-    *-WIP [Testing needed], Bidirectional payment proofs have been implemented in the contract  branch and GUI branch wallet]([url](https://github.com/mimblewimble/grin-wallet/pull/681))*
+   *- Done [testing needed, contract branch], Bidirectional payment proofs have been implemented in the contract  branch and GUI branch wallet]([url](https://github.com/mimblewimble/grin-wallet/pull/681))*
 8. hardware wallets \
   *- Done, Leger HW support for Grin is implemented, inofficial since a formal review costs money. [Tutorial](https://www.youtube.com/playlist?list=PLb1nuT3sFYbD_sydCVCngbvATsm9RwWyF), [Download the code here](https://github.com/NicolasFlamel1/ledger-live/releases)*   
- *- Done, Trezor HW support for grin is implemented. Also inoficial support requires flashing custom firmware for your Trezor  [Tutorial](https://www.youtube.com/watch?v=UXYfVNGxZM8)*
+  *- Done, Trezor HW support for grin is implemented. Also inoficial support requires flashing custom firmware for your Trezor  [Tutorial](https://www.youtube.com/watch?v=UXYfVNGxZM8)*
 
 ## Fix if time / Nice to Have
 
@@ -40,13 +40,13 @@
   https://forum.grin.mw/t/questions-about-the-state-of-the-atomic-swap-pr-and-introduction/10332
   https://github.com/mimblewimble/grin-rfcs/pull/83
 6. aggregators
-  *- mwixnet/CoinSwap, finished, testing on its way for integration in grin-wallet + plans from Ardocrat to work on integration in Grim*
+  *- Done [testing needed, contract branch], mwixnet/CoinSwap is implemented on its way for integration in grin-wallet + plans from Ardocrat to work on integration in Grim*
 [https://forum.grin.mw/t/request-for-funding-scilio-coinswap-implementation/9149**](https://forum.grin.mw/t/mwixnet-community-test/11405/19)
 7. block archive node support*
    *- Done, fast sync method could still be added in the future*
 8. [improve compatibility with OSX](https://github.com/stakervali/grin-wishlist/issues/3)
-  *- No specific changes as far as I know*
-9. anchors
+  *- No specific changes to my knowledge*
+9. anchors, not needed if we have a daily aggregator which also protects against replay attacks [[REF]([url](https://forum.grin.mw/t/replay-resistance-through-payjoins-and-aggregators/8295/3))]
 10. bulletproofs+
   *- [Not deemed safe/well tested enough yet in 2020](keybase://chat/grincoin#dev/5873)*, 
   *- [Had a positive review]([url](https://tari.substack.com/p/taris-bulletproofs-audit-is-done)) in Tari, (see [full report]([url](https://github.com/tari-project/bulletproofs-plus/blob/main/docs/quarkslab-audit/report.pdf)https://github.com/tari-project/bulletproofs-plus/blob/main/docs/quarkslab-audit/report.pdf)). 
