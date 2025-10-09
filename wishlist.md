@@ -50,7 +50,7 @@
 10. bulletproofs+
   *- [Not deemed safe/well tested enough yet in 2020](keybase://chat/grincoin#dev/5873)*, 
   *- [Had a positive review]([url](https://tari.substack.com/p/taris-bulletproofs-audit-is-done)) in Tari, (see [full report]([url](https://github.com/tari-project/bulletproofs-plus/blob/main/docs/quarkslab-audit/report.pdf)https://github.com/tari-project/bulletproofs-plus/blob/main/docs/quarkslab-audit/report.pdf)). 
-11. NRD activation
+11. None Recent Duplicate Kernels ([NRD]([url](https://docs.grin.mw/wiki/miscellaneous/nrd-kernels/))) activation, needed for lightning
 *- WIP, Active on testnet*
 12. [Display slatepacks as QR codes in CLI
   *Done, Implemented*
