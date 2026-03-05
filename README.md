@@ -62,7 +62,7 @@
 
 **Grin tools and scripts repositories**
 ------------------------------------------------------------------------------------------------
-**GrinNodeTookit** - https://github.com/noobvie/Grin-Node-Toolkit - Semi automatically setup grin node servers, backup Archive snapshots etc.
+**GrinNodeTookit** - https://github.com/noobvie/Grin-Node-Toolkit - Semi automatically setup grin node servers, backup Archive snapshots etc. <br />
 **GrinVention** - https://github.com/grinventions/ - Python implementation for mimblewimble under construction <br />
 **AwesomeGrin** - https://github.com/quentinlesceller/awesome-grin - A curated list of Grin services, softwares and tools. [Testnet faucet]([url](https://github.com/quentinlesceller/awesome-grin#faucet))!  
 **Grin-recovery** https://github.com/Anynomouss/grin_recovery - A Python based Grin wallet recovery script, capable of testing 40.000 passwords/second. <br />
