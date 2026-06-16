@@ -42,6 +42,8 @@
 **Grinily, apparel, mucks,  Grin goodies pay - with ツ** - https://grinily.com/ <br />
 **Grinbux, web traffic exchange, get free ツ by viewing ads** - https://grinbux.com/ <br />
 **OnlyGrins, win ツ lottery** - https://onlygrins.com/ <br />
+~~**Knockturn-Allee** payment processor - https://github.com/cyclefortytwo/knockturn-allee~~ (2019, not maintained)
+**Grin (BTCPay) Bridge for WooCommerce** -  https://github.com/2ro/grin-btcpay-woocommerce (2016, maintained but might need more testing)
 
 
 **More Social Media channels**
